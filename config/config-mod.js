@@ -7,8 +7,11 @@
  exports.consoleips = ['127.0.0.1'];
 
  exports.customavatars = {
-	//'userid': 'customavatar.png'
 
+	'influenceiv': '',
+	'rival': '',
+	'rosepetal': '',
+	'ashiemore': ''
 };
 
 exports.appealurl = '';
