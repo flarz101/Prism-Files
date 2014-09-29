@@ -1,0 +1,22 @@
+[2014-09-22T20:12:08.923Z] (dtier) (Marshalll Mathers changed the roomdesc to: "Discuss Prism's D Tier!".)
+[2014-09-22T22:13:12.330Z] (dtier) Aston Rasen was appointed Room Owner by Marshalll Mathers.
+[2014-09-22T22:25:41.395Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-22T22:26:41.055Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-22T22:30:51.361Z] (dtier) BDH93 was promoted to Room Driver by Aston Rasen.
+[2014-09-22T23:50:39.624Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-22T23:52:05.346Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-22T23:55:55.428Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-22T23:57:36.589Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-22T23:59:11.724Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-23T00:00:21.757Z] (dtier) (Aston Rasen changed the roomintro.)
+[2014-09-23T00:01:23.241Z] (dtier) Aston Rasen set modchat to autoconfirmed
+[2014-09-23T01:06:44.737Z] (dtier) Marshalll Mathers globally declared if you don't have a forums account, make one! Just click the forums button in the lobby
+[2014-09-23T23:23:43.347Z] (dtier) Ventillate was redirected to room Prism Tiers by Marshalll Mathers.
+[2014-09-23T23:23:47.185Z] (dtier) Marshalll Mathers made this room private.
+[2014-09-24T01:10:34.055Z] (dtier) Marshalll Mathers made this room public.
+[2014-09-24T01:14:47.761Z] (dtier) Ventillate was appointed Room Owner by Marshalll Mathers.
+[2014-09-24T20:41:27.220Z] (dtier) Ventillate set modchat to false
+[2014-09-25T00:31:04.102Z] (dtier) Marshalll Mathers made this chat room official.
+[2014-09-25T01:40:47.965Z] (dtier) (Ventillate changed the roomintro.)
+[2014-09-25T01:54:29.624Z] (dtier) Ventillate set modchat to autoconfirmed
+[2014-09-25T02:33:42.265Z] (dtier) Blueflame628 was promoted to Room Voice by Marshalll Mathers.

@@ -1,0 +1,38 @@
+[2014-07-04T06:26:33.523Z] (othermetas) flarz was appointed Room Owner by flarz.
+[2014-07-04T06:26:38.368Z] (othermetas) coldgenisis was promoted to Room Driver by flarz.
+[2014-07-04T06:36:05.132Z] (othermetas) coldgenisis was appointed Room Owner by flarz.
+[2014-07-08T04:35:59.825Z] (othermetas) coldgenisis set modchat to +
+[2014-07-08T04:36:11.872Z] (othermetas) coldgenisis set modchat to @
+[2014-07-08T05:27:33.127Z] (othermetas) coldgenisis set modchat to %
+[2014-07-08T05:27:42.080Z] (othermetas) coldgenisis set modchat to autoconfirmed
+[2014-07-08T07:46:32.630Z] (othermetas) coldgenisis set modchat to #
+[2014-07-08T07:48:36.762Z] (othermetas) coldgenisis set modchat to autoconfirmed
+[2014-07-09T04:36:07.524Z] (othermetas) coldgenisis set modchat to +
+[2014-07-09T08:34:04.133Z] (othermetas) coldgenisis set modchat to false
+[2014-07-09T08:48:41.513Z] (othermetas) Pradham was promoted to Room Driver by coldgenisis.
+[2014-07-09T08:50:42.343Z] (othermetas) Pradham was promoted to Room Moderator by coldgenisis.
+[2014-07-14T04:48:54.747Z] (othermetas) coldgenisis set modchat to ~
+[2014-07-14T04:50:17.795Z] (othermetas) coldgenisis set modchat to &
+[2014-07-14T04:50:28.692Z] (othermetas) coldgenisis set modchat to #
+[2014-07-15T08:16:13.840Z] (othermetas) coldgenisis set modchat to ~
+[2014-07-16T05:53:20.495Z] (othermetas) coldgenisis set modchat to false
+[2014-07-16T05:57:55.347Z] (othermetas) coldgenisis declared why is this room so dead all the time?
+[2014-07-18T05:32:40.317Z] (othermetas) coldgenisis set modchat to #
+[2014-07-23T06:29:13.819Z] (othermetas) coldgenisis set modchat to +
+[2014-08-13T00:23:07.465Z] (othermetas) Rival Nick set modchat to false
+[2014-08-20T02:39:04.385Z] (othermetas) coldgenisis set modchat to +
+[2014-08-22T20:28:57.628Z] (othermetas) coldgenisis set modchat to ~
+[2014-08-22T20:29:06.942Z] (othermetas) coldgenisis set modchat to #
+[2014-08-22T20:29:25.298Z] (othermetas) coldgenisis set modchat to %
+[2014-08-23T01:09:03.765Z] (othermetas) coldgenisis set modchat to false
+[2014-08-29T21:38:56.175Z] (othermetas) JigglykongisFUM16 was promoted to Room Voice by coldgenisis.
+[2014-08-29T23:08:00.230Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:12:17.568Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:13:02.672Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:13:24.587Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:13:54.284Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:17:35.065Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:18:33.098Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:19:12.578Z] (othermetas) (flarz changed the roomintro.)
+[2014-08-29T23:23:09.227Z] (othermetas) (flarz changed the roomintro.)
+[2014-09-19T00:50:26.222Z] (othermetas) flarz made this room private.

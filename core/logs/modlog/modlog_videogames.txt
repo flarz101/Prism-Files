@@ -1,0 +1,105 @@
+[2014-07-04T04:59:27.043Z] (videogames) Modeling Clay was appointed Room Owner by flarz.
+[2014-07-04T05:05:03.543Z] (videogames) Modeling Clay declared I now declare pie
+[2014-07-04T05:15:57.025Z] (videogames) flarz was promoted to Room Voice by Modeling Clay.
+[2014-07-04T05:16:24.313Z] (videogames) (flarz was demoted to Room regular user by Modeling Clay.)
+[2014-07-04T05:19:14.101Z] (videogames) ForeverSwaggy∞ was promoted to Room Voice by Modeling Clay.
+[2014-07-04T05:20:59.054Z] (videogames) Modeling Clay set modchat to #
+[2014-07-04T05:21:24.968Z] (videogames) Modeling Clay set modchat to false
+[2014-07-04T05:22:39.370Z] (videogames) (foreverswaggy was demoted to Room regular user by Modeling Clay.)
+[2014-07-04T05:23:01.695Z] (videogames) SwaggyTrainer was promoted to Room Voice by Modeling Clay.
+[2014-07-04T05:23:11.211Z] (videogames) Modeling Clay set modchat to %
+[2014-07-04T05:23:37.902Z] (videogames) Modeling Clay set modchat to false
+[2014-07-04T05:29:04.589Z] (videogames) SwaggyTrainer was promoted to Room Moderator by Modeling Clay.
+[2014-07-04T05:30:19.945Z] (videogames) flarz was promoted to Room Voice by Modeling Clay.
+[2014-07-04T05:30:40.584Z] (videogames) (Modeling Clay was demoted to Room Moderator by flarz.)
+[2014-07-04T05:30:52.386Z] (videogames) (flarz was demoted to Room regular user by flarz.)
+[2014-07-04T05:30:59.909Z] (videogames) Modeling Clay was appointed Room Owner by flarz.
+[2014-07-04T05:32:43.480Z] (videogames) (SwaggyTrainer was demoted to Room Driver by Modeling Clay.)
+[2014-07-04T05:33:21.137Z] (videogames) SwaggyTrainer was promoted to Room Moderator by Modeling Clay.
+[2014-07-04T05:35:42.111Z] (videogames) aleuser was promoted to Room Driver by Modeling Clay.
+[2014-07-04T05:36:07.528Z] (videogames) aleuser was promoted to Room Moderator by flarz.
+[2014-07-04T05:36:24.215Z] (videogames) flarz was promoted to Room Moderator by flarz.
+[2014-07-04T05:36:58.131Z] (videogames) flarz was appointed Room Owner by flarz.
+[2014-07-04T05:37:08.597Z] (videogames) (flarz was demoted to Room Moderator by flarz.)
+[2014-07-04T05:37:30.411Z] (videogames) Modeling Clay declared I declare Independence
+[2014-07-04T05:37:33.381Z] (videogames) SorryForYourLoss was promoted to Voice by flarz.
+[2014-07-04T05:38:25.667Z] (videogames) flarz was banned from room videogames by flarz.
+[2014-07-04T05:38:42.717Z] (videogames) flarz was unbanned from room videogames by Modeling Clay.
+[2014-07-04T05:39:10.777Z] (videogames) dragontrainerdrago was appointed Room Owner by flarz.
+[2014-07-04T05:40:16.139Z] (videogames) (dragontrainerdrago was demoted to Room Moderator by flarz.)
+[2014-07-04T05:40:38.700Z] (videogames) Modeling Clay declared Happy 4th July
+[2014-07-04T05:41:49.048Z] (videogames) Modeling Clay declared Pie for everyone I like
+[2014-07-04T05:43:17.216Z] (videogames) flarz set modchat to +
+[2014-07-04T05:43:53.923Z] (videogames) Modeling Clay declared **"Just try to break my skull, I'm so dum, my skull is thick" ~ Clay 2014
+[2014-07-04T05:44:35.900Z] (videogames) SwaggyTrainer set modchat to false
+[2014-07-04T05:47:16.413Z] (videogames) (flarz was demoted to Room Driver by Modeling Clay.)
+[2014-07-04T05:47:38.395Z] (videogames) (flarz was demoted to Room Voice by Modeling Clay.)
+[2014-07-04T05:47:45.375Z] (videogames) flarz was promoted to Room Moderator by flarz.
+[2014-07-04T05:49:24.460Z] (videogames) (flarz was demoted to Room Driver by flarz.)
+[2014-07-04T05:49:37.868Z] (videogames) (flarz was demoted to Room Voice by flarz.)
+[2014-07-04T05:49:47.308Z] (videogames) (flarz was demoted to Room regular user by flarz.)
+[2014-07-04T05:49:54.839Z] (videogames) aleuser was muted by Modeling Clay for 7 minutes.
+[2014-07-04T05:50:01.436Z] (videogames) aleuser was unmuted by flarz.
+[2014-07-04T05:51:08.058Z] (videogames) blarpbarp was promoted to Room Moderator by Modeling Clay.
+[2014-07-04T05:53:02.310Z] (videogames) Modeling Clay set modchat to #
+[2014-07-04T05:53:12.026Z] (videogames) Modeling Clay declared stop fighting
+[2014-07-04T05:53:14.340Z] (videogames) Rose Petal was promoted to Driver by flarz.
+[2014-07-04T05:53:17.917Z] (videogames) Modeling Clay set modchat to false
+[2014-07-04T05:55:06.076Z] (videogames) Snarkless was muted by blarpbarp for 60 minutes.
+[2014-07-04T05:55:09.638Z] (videogames) Snarkless was unmuted by blarpbarp.
+[2014-07-04T05:55:28.051Z] (videogames) Snarkless was promoted to Room Voice by Modeling Clay.
+[2014-07-04T05:55:58.961Z] (videogames) flarz set modchat to ~
+[2014-07-04T05:56:24.151Z] (videogames) flarz set modchat to false
+[2014-07-04T05:56:53.257Z] (videogames) Modeling Clay declared we need a leader bottt
+[2014-07-04T05:57:13.197Z] (videogames) mbreezy was promoted to Voice by flarz.
+[2014-07-04T05:58:16.930Z] (videogames) mbreezy was promoted to Room Moderator by Modeling Clay.
+[2014-07-04T06:00:21.049Z] (videogames) Modeling Clay declared SSB4 Desc or COD Desc?
+[2014-07-04T06:00:52.130Z] (videogames) flarz globally declared Hosting a roomdesc contest for alls rooms w/o a desc! PM me your entries
+[2014-07-04T06:02:33.460Z] (videogames) Modeling Clay declared Dance
+[2014-07-04T06:03:15.620Z] (videogames) Modeling Clay declared Earthbound or Zelda
+[2014-07-04T06:03:36.616Z] (videogames) Modeling Clay declared Let it go
+[2014-07-04T06:03:59.566Z] (videogames) flarz declared OOOOOOOO-OOOOOO-OOOOOO-OOOO SING! OOOOOOOO----OOOOOOOO
+[2014-07-04T06:04:13.635Z] (videogames) aleuser was warned by flarz. (caps)
+[2014-07-04T06:05:34.922Z] (videogames) flarz declared I'M ON TOP OF THE WORLD, EY! I'M ON TOP OF THE WORLD, EY! BEEN WAITING ON THIS FOR A WHILE NOW! PAYING MY DUES TO THE DIRT!
+[2014-07-04T06:05:58.487Z] (videogames) Modeling Clay declared Most Nostalgic Game For You?
+[2014-07-04T06:07:03.362Z] (videogames) Rose Petal was muted by blarpbarp for 7 minutes. (you are terminated. *don't forget the accent*)
+[2014-07-04T06:07:06.133Z] (videogames) flarz declared I'VE BEEN WAITING TO SMILE, EY! BEEN HOLDING IT IN FOR A WHILE, EY! TAKE YOU WITH ME IF I CAN! BEEN DREAMING OF THIS SINCE A CHILD! I'M ON TOP OF THE WORLD!
+[2014-07-04T06:07:09.392Z] (videogames) Rose Petal was unmuted by blarpbarp.
+[2014-07-04T06:08:23.613Z] (videogames) Modeling Clay was promoted to Voice by flarz.
+[2014-07-04T06:09:13.000Z] (videogames) Modeling Clay declared Video Games: Where Mario and Sonic fight and where Valve can't count to three
+[2014-07-04T06:09:52.500Z] (videogames) (aleuser was demoted to Room Voice by Modeling Clay.)
+[2014-07-04T06:10:36.846Z] (videogames) Modeling Clay declared blarp plz
+[2014-07-04T06:11:30.579Z] (videogames) aleuser was promoted to Room Moderator by Modeling Clay.
+[2014-07-04T06:12:27.823Z] (videogames) Modeling Clay declared Invite people plz
+[2014-07-04T06:13:54.110Z] (videogames) swirlyder was muted by aleuser for 60 minutes. (hai freind)
+[2014-07-04T06:14:03.063Z] (videogames) swirlyder was unmuted by flarz.
+[2014-07-04T06:14:14.995Z] (videogames) Modeling Clay declared Video Games: Where Okami is art and Sports games are dirt
+[2014-07-04T06:24:53.622Z] (videogames) (aleuser was demoted to Room Driver by Modeling Clay.)
+[2014-07-04T06:25:37.654Z] (videogames) aleuser was banned from room videogames by blarpbarp. (you disgust me.)
+[2014-07-04T06:25:46.093Z] (videogames) aleuser was unbanned from room videogames by blarpbarp.
+[2014-07-04T06:26:35.635Z] (videogames) Modeling Clay declared Platformers or RPGs?
+[2014-07-04T06:32:27.909Z] (videogames) aleuser was promoted to Room Moderator by Modeling Clay.
+[2014-07-04T23:54:22.585Z] (videogames) MagicKirby was promoted to Room Moderator by Modeling Clay.
+[2014-07-05T00:03:45.952Z] (videogames) Empoleon XV was promoted to Room Driver by Modeling Clay.
+[2014-07-05T00:04:12.508Z] (videogames) (MagicKirby was demoted to Room Driver by flarz.)
+[2014-07-05T00:04:18.627Z] (videogames) MagicKirby was promoted to Room Moderator by flarz.
+[2014-07-05T00:09:52.485Z] (videogames) Modeling Clay was promoted to Administrator by flarz.
+[2014-07-05T00:10:10.983Z] (videogames) (Modeling Clay was demoted to Leader by flarz.)
+[2014-07-05T00:11:19.323Z] (videogames) Modeling Clay was promoted to Administrator by flarz.
+[2014-07-05T00:13:11.123Z] (videogames) (Modeling Clay was demoted to Leader by flarz.)
+[2014-07-05T00:19:38.427Z] (videogames) Clay tests was promoted to Voice by Modeling Clay.
+[2014-07-05T00:20:03.308Z] (videogames) Clay tests was banned by Modeling Clay. (203.87.147.125)
+[2014-07-05T00:20:03.308Z] (videogames) Clay tests's alts were also banned: Modeling Clay
+[2014-07-05T00:24:48.527Z] (videogames) claytests was unbanned by flarz.
+[2014-07-05T00:26:34.361Z] (videogames) (Modeling Clay was demoted to Moderator by flarz.)
+[2014-07-05T00:26:39.745Z] (videogames) (Modeling Clay was demoted to Driver by flarz.)
+[2014-07-05T00:26:42.666Z] (videogames) (Modeling Clay was demoted to Voice by flarz.)
+[2014-07-05T00:27:36.552Z] (videogames) Clay tests was promoted to Room Voice by blarpbarp.
+[2014-07-05T00:28:00.375Z] (videogames) blarpbarp was warned by Modeling Clay. (notes test)
+[2014-07-05T00:29:02.059Z] (videogames) (flarz notes: you sak)
+[2014-07-05T00:47:22.451Z] (videogames) flarz was promoted to Room Moderator by flarz.
+[2014-07-05T01:04:03.949Z] (videogames) blarpbarp was warned by flarz. (caps)
+[2014-07-05T01:29:42.493Z] (videogames) Modeling Clay declared I declare war
+[2014-07-05T05:42:42.746Z] (videogames) Modeling Clay declared (◔◡◔)
+[2014-07-07T02:27:16.012Z] (videogames) ArkScar was promoted to Room Driver by inFluence_iV.
+[2014-07-09T00:18:12.973Z] (videogames) sw4mpert made this room private.

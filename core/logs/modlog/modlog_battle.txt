@@ -1,0 +1,35 @@
+[2014-07-09T00:21:46.383Z] (battle-gen3oubeta-37) sw4mpert forced a tie.
+[2014-07-09T00:31:26.091Z] (battle-gen3oubeta-38) (inFluence_iV was forced to choose a new name by sw4mpert)
+[2014-07-09T00:31:58.516Z] (battle-gen3oubeta-38) sw4mpert forced a tie.
+[2014-08-15T22:26:31.235Z] (battle-ou-275) HoeenKid was promoted to Room Voice by P@lAntek.
+[2014-08-19T19:40:08.566Z] (battle-customgame-294) HoeenKid forced a tie.
+[2014-08-19T19:46:05.869Z] (battle-customgame-295) HoeenKid forced a tie.
+[2014-08-19T19:49:02.871Z] (battle-customgame-296) HoeenKid forced a tie.
+[2014-08-19T19:53:17.271Z] (battle-customgame-297) HoeenKid forced a tie.
+[2014-08-19T19:58:28.389Z] (battle-customgame-298) HoeenKid forced a tie.
+[2014-08-19T19:58:34.490Z] (battle-customgame-298) HoeenKid forced a win for hoeenkid.
+[2014-08-20T02:46:27.088Z] (battle-gen4oubeta-304) Rosepetal forced a tie.
+[2014-08-20T22:01:49.670Z] (battle-balancedhackmons-318) HoeenKid forced a tie.
+[2014-08-20T22:01:56.746Z] (battle-balancedhackmons-318) HoeenKid forced a win for hoeenkid.
+[2014-08-20T22:14:06.038Z] (battle-ou-319) HoeenKid forced a win for battledragon.
+[2014-08-20T23:15:24.658Z] (battle-stabmons-324) HoeenKid forced a win for hoeenkid.
+[2014-08-20T23:22:43.710Z] (battle-1v1-326) HoeenKid forced a win for hoeenkid.
+[2014-08-20T23:48:23.274Z] (battle-randombattle-328) HoeenKid forced a win for hunterofshadows.
+[2014-08-26T00:33:41.967Z] (battle-randombattle-442) Rosepetal forced a tie.
+[2014-08-26T00:43:56.364Z] (battle-randombattle-444) Rosepetal forced a tie.
+[2014-08-30T16:16:07.182Z] (battle-randombattle-554) Ash Immortal was promoted to Room Voice by HoeenKid.
+[2014-08-30T16:18:12.897Z] (battle-randombattle-554) (inFluence_iV was demoted to Room Voice by HoeenKid.)
+[2014-08-30T16:18:32.207Z] (battle-randombattle-554) (inFluence_iV was demoted to Room Moderator by HoeenKid.)
+[2014-08-30T16:27:37.924Z] (battle-randombattle-556) HoeenKid forced a win for hoeenkid.
+[2014-08-30T23:43:02.632Z] (battle-customgame-564) HoeenKid forced a win for hoeenkid.
+[2014-08-31T19:07:34.052Z] (battle-randombattle-574) HoeenKid forced a win for influenceiv.
+[2014-08-31T23:24:11.419Z] (battle-trulyrandombattle-582) ashiemore forced a win for rosepetal.
+[2014-09-01T16:49:04.800Z] (battle-randombattle-598) ashiemore forced a win for ashiemore.
+[2014-09-03T16:33:29.183Z] (battle-doublescustomgame-666) HoeenKid forced a win for hoeenkid.
+[2014-09-04T01:58:05.541Z] (battle-randommonotype-678) Rival set modchat to +
+[2014-09-05T00:28:30.581Z] (battle-randommonotype-715) HoeenKid forced a win for shinyblaziken2000.
+[2014-09-06T01:00:14.282Z] (battle-doublescustomgame-750) Joshua (Trainer) set modchat to autoconfirmed
+[2014-09-06T02:34:44.997Z] (battle-ou-751) ashiemore forced a win for ashiemore.
+[2014-09-06T18:14:11.788Z] (battle-balancedhackmons-776) HoeenKid forced a win for hoeenkid.
+[2014-09-08T18:46:04.946Z] (battle-randomcapbattle-797) The Pokemon of the Day was changed to tomohawk by HoeenKid.
+[2014-09-23T02:32:23.406Z] (battle-randombattle-1042) ashiemore forced a win for influenceiv.

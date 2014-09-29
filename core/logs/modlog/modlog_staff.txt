@@ -1,0 +1,83 @@
+[2014-07-26T02:11:55.502Z] (staff) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-07-27T02:15:09.391Z] (staff) Moderator Bot was promoted to Room Moderator by inFluence_iV.
+[2014-07-27T02:16:00.842Z] (staff) Moderator Bot set modchat to autoconfirmed
+[2014-07-29T04:10:24.331Z] (staff) (flarztestingtr was demoted to regular user by inFluence_iV.)
+[2014-07-29T04:10:45.683Z] (staff) (modelingclay was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:02:01.449Z] (staff) (aleuser was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:02:24.974Z] (staff) (sw4mpert was demoted to Leader by inFluence_iV.)
+[2014-08-02T16:02:39.987Z] (staff) (sw4mpert was demoted to Voice by inFluence_iV.)
+[2014-08-02T16:02:42.622Z] (staff) (sw4mpert was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:02:58.534Z] (staff) (flarzrocketz was demoted to Voice by inFluence_iV.)
+[2014-08-02T16:03:01.335Z] (staff) (flarzrocketz was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:03:14.809Z] (staff) (jellicent was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:03:28.007Z] (staff) (Clay tests was demoted to regular user by inFluence_iV.)
+[2014-08-15T17:40:34.537Z] (staff) Rosepetal was promoted to Leader by Rival Nick.
+[2014-08-16T20:53:15.433Z] (staff) HoeenKid was banned by Rival Nick. (173.169.100.216)
+[2014-08-17T21:26:56.022Z] (staff) inFluence_iV was promoted to Room Moderator by inFluence_iV.
+[2014-08-19T18:41:31.325Z] (staff) HoeenKid was promoted to Room Moderator by HoeenKid.
+[2014-08-20T03:18:56.562Z] (staff) Rival Nick was appointed Room Owner by Rival Nick.
+[2014-08-20T03:19:00.210Z] (staff) (Rival Nick was demoted to Room Driver by Rival Nick.)
+[2014-08-20T03:20:21.560Z] (staff) (Rival Nick was demoted to Room Voice by Rival Nick.)
+[2014-08-20T03:20:28.148Z] (staff) (Rival Nick was demoted to Room regular user by Rival Nick.)
+[2014-08-20T21:32:48.385Z] (staff) HoeenKid was appointed Room Owner by HoeenKid.
+[2014-08-21T00:32:10.692Z] (staff) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-08-22T00:36:41.077Z] (staff) MoxieInfinite was promoted to Driver by inFluence_iV.
+[2014-08-22T00:36:46.371Z] (staff) HoeenKid was promoted to Driver by inFluence_iV.
+[2014-08-22T00:37:39.425Z] (staff) HoeenKid was promoted to Room Voice by inFluence_iV.
+[2014-08-22T00:37:46.395Z] (staff) MoxieInfinite was promoted to Room Voice by inFluence_iV.
+[2014-08-22T00:37:54.483Z] (staff) Catacomb was promoted to Room Voice by inFluence_iV.
+[2014-08-22T00:49:15.287Z] (staff) Meteordash was promoted to Voice by inFluence_iV.
+[2014-08-22T01:11:06.917Z] (staff) Catacomb was promoted to Moderator by inFluence_iV.
+[2014-08-22T02:05:49.628Z] (staff) Haxoru$ was promoted to Voice by inFluence_iV.
+[2014-08-22T02:40:14.169Z] (staff) meteordash was promoted to Driver by Rival Nick.
+[2014-08-22T02:43:01.316Z] (staff) (Catacomb was demoted to Room regular user by Rival Nick.)
+[2014-08-22T02:43:09.087Z] (staff) (hoeenkid was demoted to Room regular user by Rival Nick.)
+[2014-08-22T02:43:24.293Z] (staff) (hoeenkid was demoted to Voice by Rival Nick.)
+[2014-08-22T02:43:40.596Z] (staff) hoeenkid was promoted to Driver by Rival Nick.
+[2014-08-22T04:00:17.895Z] (staff) Rival was promoted to Voice by Rival Nick.
+[2014-08-22T04:00:20.616Z] (staff) rival was promoted to Administrator by Rival Nick.
+[2014-08-23T00:16:42.744Z] (staff) flarz was promoted to Driver by Rival.
+[2014-08-24T01:42:51.614Z] (staff) Rival set modchat to +
+[2014-08-24T01:42:56.911Z] (staff) Rival set modchat to %
+[2014-08-24T01:43:06.881Z] (staff) Rival set modchat to false
+[2014-08-24T01:43:20.335Z] (staff) Rival was appointed Room Owner by Rival.
+[2014-08-24T01:43:28.079Z] (staff) HoeenKid was promoted to Room Moderator by Rival.
+[2014-08-24T01:43:33.783Z] (staff) inFluence_iV was promoted to Room Moderator by Rival.
+[2014-08-24T01:43:50.990Z] (staff) Scarlet Pimpernel was promoted to Room Moderator by Rival.
+[2014-08-24T01:44:13.149Z] (staff) Rival set modchat to %
+[2014-08-24T01:46:39.347Z] (staff) Rival set modchat to false
+[2014-08-24T01:52:16.710Z] (staff) (Catacomb was demoted to Voice by inFluence_iV.)
+[2014-08-24T01:52:23.757Z] (staff) (Catacomb was demoted to regular user by inFluence_iV.)
+[2014-08-24T01:52:29.757Z] (staff) Catacomb was promoted to Moderator by inFluence_iV.
+[2014-08-25T01:22:48.202Z] (staff) StarGate Bot was appointed Room Owner by inFluence_iV.
+[2014-08-25T01:25:07.130Z] (staff) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-08-26T19:23:59.475Z] (staff) HoeenKid was promoted to Moderator by inFluence_iV.
+[2014-08-29T18:34:26.661Z] (staff) Legit Button was promoted to Voice by inFluence_iV.
+[2014-08-29T22:49:15.133Z] (staff) flarz was promoted to Administrator by inFluence_iV.
+[2014-08-29T23:06:48.710Z] (staff) flarz was promoted to Room Moderator by flarz.
+[2014-08-31T21:39:20.372Z] (staff) moxieinfinite was unbanned by ashiemore.
+[2014-08-31T22:07:39.147Z] (staff) (Legit Button was demoted to regular user by ashiemore.)
+[2014-09-01T01:23:47.587Z] (staff) PikaBoTTT was promoted to Leader by inFluence_iV.
+[2014-09-01T01:52:42.980Z] (staff) (BiggerBlackerDick was forced to choose a new name by ashiemore)
+[2014-09-01T01:54:00.100Z] (staff) (Biggerblackistdick was forced to choose a new name by ashiemore)
+[2014-09-01T01:55:47.391Z] (staff) BlackCharlesDicker was banned by ashiemore. (refusal to choose an appropriate name) (70.92.145.211)
+[2014-09-01T04:49:58.763Z] (staff) Catacomb was promoted to Room Voice by inFluence_iV.
+[2014-09-01T15:53:45.141Z] (staff) (catacomb was demoted to regular user by ashiemore.)
+[2014-09-01T19:40:18.582Z] (staff) Resonancy was promoted to Moderator by inFluence_iV.
+[2014-09-01T20:14:42.023Z] (staff) Legit Button was promoted to Voice by inFluence_iV.
+[2014-09-07T15:43:00.091Z] (staff) BattleDragon was promoted to Room Voice by HoeenKid.
+[2014-09-09T00:26:18.717Z] (staff) inFluence_iv set modchat to +
+[2014-09-09T00:26:23.785Z] (staff) (Bryan AA was demoted to Voice by inFluence_iv.)
+[2014-09-09T00:26:30.451Z] (staff) Bryan AA was promoted to Driver by inFluence_iv.
+[2014-09-09T00:26:34.780Z] (staff) Bryan AA was promoted to Room Driver by inFluence_iv.
+[2014-09-09T00:26:48.648Z] (staff) Rosepetal was promoted to Room Driver by inFluence_iv.
+[2014-09-09T22:15:16.229Z] (staff) rosepetal was unlocked by ashiemore.
+[2014-09-12T20:25:19.232Z] (staff) flarz set modchat to false
+[2014-09-16T22:07:48.854Z] (staff) Steven Hunyady was banned by rosepetal. (141.158.64.76)
+[2014-09-16T22:07:48.854Z] (staff) (Steven Hunyady's  ac account: stevenhunyady, banned alts: Magma Ldr Maxie)
+[2014-09-19T02:15:45.134Z] (staff) VicariousNeos was promoted to Moderator by flarz.
+[2014-09-20T02:08:39.291Z] (staff) Marhsall Mathers was promoted to Voice by flarz.
+[2014-09-20T18:02:40.777Z] (staff) Marshalll Mathers was appointed Room Owner by Marshalll Mathers.
+[2014-09-20T21:24:03.626Z] (staff) rosepetal was promoted to Room Moderator by rosepetal.
+[2014-09-21T15:52:42.947Z] (staff) BattleDragon was promoted to Room Driver by rosepetal.
+[2014-09-23T02:00:08.915Z] (staff) (hoeenkid was demoted to Moderator by inFluence_iV.)

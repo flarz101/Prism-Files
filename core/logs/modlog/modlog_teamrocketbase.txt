@@ -1,0 +1,33 @@
+[2014-08-22T01:37:39.248Z] (teamrocketbase) super sonic x was appointed Room Owner by inFluence_iV.
+[2014-08-22T01:39:04.945Z] (teamrocketbase) Hunter_Of_Shadows was promoted to Room Moderator by super sonic x.
+[2014-08-22T01:51:06.773Z] (teamrocketbase) Mega Eevee X was muted by super sonic x for 7 minutes. (be fucking nice)
+[2014-08-22T01:51:19.177Z] (teamrocketbase) Mega Eevee X was unmuted by Catacomb.
+[2014-08-22T02:12:18.016Z] (teamrocketbase) Aston Rasen was promoted to Room Moderator by super sonic x.
+[2014-08-22T02:13:51.691Z] (teamrocketbase) Joshua (Trainer) was promoted to Room Driver by super sonic x.
+[2014-08-22T02:18:06.770Z] (teamrocketbase) Bryan AA was promoted to Room Moderator by super sonic x.
+[2014-08-22T05:17:19.533Z] (teamrocketbase) Aston Rasen set modchat to autoconfirmed
+[2014-08-22T16:40:37.348Z] (teamrocketbase) Aston Rasen set modchat to false
+[2014-08-23T01:50:19.812Z] (teamrocketbase) CoolCubchoo(⌐■_■) was promoted to Room Voice by Aston Rasen.
+[2014-08-23T01:55:58.610Z] (teamrocketbase) (CoolCubchoo(⌐■_■) was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T00:48:45.705Z] (teamrocketbase) Rongetio (Trainer) was promoted to Room Voice by Aston Rasen.
+[2014-08-25T02:51:55.260Z] (teamrocketbase) Aston Rasen was appointed Room Owner by inFluence_iV.
+[2014-08-25T03:05:49.636Z] (teamrocketbase) (Joshua (Trainer) was demoted to Room Voice by Aston Rasen.)
+[2014-08-25T03:05:58.954Z] (teamrocketbase) (Joshua (Trainer) was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:07:45.738Z] (teamrocketbase) flarz was promoted to Room Voice by Aston Rasen.
+[2014-08-25T03:08:14.726Z] (teamrocketbase) (flarz was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:12:28.282Z] (teamrocketbase) flarz was promoted to Room Voice by Aston Rasen.
+[2014-08-25T03:13:50.273Z] (teamrocketbase) (bryanaa was demoted to Room Driver by Aston Rasen.)
+[2014-08-25T03:13:59.738Z] (teamrocketbase) (bryanaa was demoted to Room Voice by Aston Rasen.)
+[2014-08-25T03:14:07.472Z] (teamrocketbase) (bryanaa was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:14:19.320Z] (teamrocketbase) (hunterofshadows was demoted to Room Driver by Aston Rasen.)
+[2014-08-25T03:15:15.348Z] (teamrocketbase) (hunterofshadows was demoted to Room Voice by Aston Rasen.)
+[2014-08-25T03:15:31.576Z] (teamrocketbase) (hunterofshadows was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:16:02.313Z] (teamrocketbase) (rongetiotrainer was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:33:00.985Z] (teamrocketbase) Jumi was promoted to Room Voice by Aston Rasen.
+[2014-08-25T03:37:02.033Z] (teamrocketbase) BDH93 was promoted to Room Voice by Aston Rasen.
+[2014-08-25T03:42:10.935Z] (teamrocketbase) (Aston Rasen changed the roomintro.)
+[2014-08-25T03:52:29.949Z] (teamrocketbase) Jumi was redirected to room 1-v-1 League by Aston Rasen.
+[2014-08-25T03:57:38.521Z] (teamrocketbase) (BDH93 was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:57:43.528Z] (teamrocketbase) (flarz was demoted to Room regular user by Aston Rasen.)
+[2014-08-25T03:57:48.354Z] (teamrocketbase) (Jumi was demoted to Room regular user by Aston Rasen.)
+[2014-08-30T00:31:30.798Z] (teamrocketbase) flarz made this room private.

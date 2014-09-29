@@ -1,0 +1,592 @@
+[2014-05-18T03:49:58.502Z] (lobby) rivalnick was promoted to Leader by inFluence_iV.
+[2014-05-18T03:50:34.600Z] (lobby) Rival Nick was promoted to Administrator by inFluence_iV.
+[2014-05-18T03:54:16.320Z] (lobby) (Rival Nick was demoted to Leader by inFluence_iV.)
+[2014-05-18T04:04:27.700Z] (lobby) Rival Nick was promoted to Administrator by inFluence_iV.
+[2014-05-18T04:04:30.342Z] (lobby) Rival Nick made this chat room official.
+[2014-05-18T04:04:42.202Z] (lobby) (Rival Nick was demoted to Leader by Rival Nick.)
+[2014-05-18T18:19:11.048Z] (lobby) Rival Nick set modchat to autoconfirmed
+[2014-07-03T04:26:56.812Z] (lobby) Rocketz was promoted to Voice by inFluenceiV.
+[2014-07-03T04:27:02.528Z] (lobby) rocketz was promoted to Administrator by inFluenceiV.
+[2014-07-04T04:22:01.601Z] (lobby) Scarlet Pimpernel was appointed Room Owner by inFluence_iV.
+[2014-07-04T04:22:40.482Z] (lobby) flarz was promoted to Administrator by inFluence_iV.
+[2014-07-04T04:34:04.146Z] (lobby) xSkelly34 was redirected to room Tournaments by flarz.
+[2014-07-04T04:45:00.258Z] (lobby) ashiemore was promoted to Moderator by inFluence_iV.
+[2014-07-04T04:45:06.284Z] (lobby) Norin was promoted to Voice by flarz.
+[2014-07-04T04:45:09.196Z] (lobby) flarz was promoted to Room Voice by ashiemore.
+[2014-07-04T04:45:11.070Z] (lobby) flarz was banned from room lobby by ashiemore.
+[2014-07-04T04:45:29.890Z] (lobby) flarz was unbanned from room lobby by ashiemore.
+[2014-07-04T04:45:38.051Z] (lobby) (flarz was demoted to Room regular user by ashiemore.)
+[2014-07-04T04:46:23.234Z] (lobby) ashiemore was redirected to room DPP/BW Meta by flarz.
+[2014-07-04T04:47:16.144Z] (lobby) Jonater was redirected to room TCG by flarz.
+[2014-07-04T04:48:02.071Z] (lobby) flarz was promoted to Room Voice by ashiemore.
+[2014-07-04T04:48:45.362Z] (lobby) flarz was appointed Room Owner by inFluence_iV.
+[2014-07-04T04:54:05.842Z] (lobby) Rosepetal was promoted to Voice by flarz.
+[2014-07-04T04:59:13.991Z] (lobby) Modeling Clay was redirected to room videogames by flarz.
+[2014-07-04T05:42:49.641Z] (lobby) flarz globally declared All ADV Metagames coming soon! -flarz
+[2014-07-04T06:42:01.977Z] (lobby) Jellicent was promoted to Voice by flarz.
+[2014-07-04T07:11:25.220Z] (lobby) flarz globally declared CC1v1 tourney in lobby!
+[2014-07-05T00:25:45.387Z] (lobby) Modeling Clay was unlocked by flarz.
+[2014-07-05T00:34:59.632Z] (lobby) joethemaster was redirected to room Battle Spot Meta by flarz.
+[2014-07-05T15:12:40.717Z] (lobby) Vaporeon for Ubers was redirected to room Tournaments by flarz.
+[2014-07-06T02:04:16.780Z] (lobby) flarztestingtr was promoted to Voice by flarz.
+[2014-07-06T20:25:03.538Z] (lobby) Rocketz was promoted to Voice by inFluenceiV.
+[2014-07-06T20:25:09.277Z] (lobby) Rocketz was promoted to Driver by inFluenceiV.
+[2014-07-06T20:25:18.788Z] (lobby) rocketz was promoted to Administrator by inFluenceiV.
+[2014-07-07T05:28:01.406Z] (lobby) coldgenisis was promoted to Voice by FLARZ.
+[2014-07-07T19:31:32.604Z] (lobby) sw4mpert was promoted to Voice by flarz.
+[2014-07-08T00:24:24.689Z] (lobby) Prism_boTTT was promoted to Moderator by inFluence_iV.
+[2014-07-08T00:24:44.262Z] (lobby) FLARZ was promoted to Room Voice by ashiemore.
+[2014-07-08T00:25:24.577Z] (lobby) sw4mpert was redirected to room ADV Meta by ashiemore.
+[2014-07-08T00:26:08.410Z] (lobby) sw4mpert was muted by Prism_boTTT for 7 minutes. (Automated response: flooding)
+[2014-07-08T00:26:34.504Z] (lobby) inFamous-iV was muted by Prism_boTTT for 7 minutes. (Automated response: flooding)
+[2014-07-08T00:26:55.945Z] (lobby) sw4mpert was unmuted by ashiemore.
+[2014-07-08T00:27:07.543Z] (lobby) inFluenceiV was unmuted by inFluenceiV.
+[2014-07-08T00:28:19.521Z] (lobby) sw4mpert was promoted to Administrator by inFluenceiV.
+[2014-07-08T00:33:36.380Z] (lobby) sw4mpert was promoted to Room Voice by ashiemore.
+[2014-07-08T00:36:05.357Z] (lobby) (sw4mpert was demoted to Room regular user by sw4mpert.)
+[2014-07-08T00:37:07.053Z] (lobby) sw4mpert was promoted to Room Voice by ashiemore.
+[2014-07-08T00:37:09.212Z] (lobby) sw4mpert was banned from room lobby by ashiemore.
+[2014-07-08T00:37:59.308Z] (lobby) sw4mpert was unbanned from room lobby by ashiemore.
+[2014-07-08T00:47:31.760Z] (lobby) (sw4mpert was demoted to Room regular user by sw4mpert.)
+[2014-07-08T23:42:39.878Z] (lobby) (FLARZ was demoted to Room regular user by FLARZ.)
+[2014-07-09T00:16:19.539Z] (lobby) zarel was promoted to Voice by sw4mpert.
+[2014-07-09T00:16:40.713Z] (lobby) (zarel was demoted to regular user by sw4mpert.)
+[2014-07-09T00:39:14.251Z] (lobby) (sw4mpert was demoted to Leader by sw4mpert.)
+[2014-07-09T00:41:24.092Z] (lobby) sw4pert was promoted to Voice by flarz.
+[2014-07-09T00:41:35.822Z] (lobby) (sw4pert was demoted to regular user by flarz.)
+[2014-07-09T00:41:51.584Z] (lobby) sw4mpert was promoted to Administrator by flarz.
+[2014-07-09T00:42:38.566Z] (lobby) (flarz was demoted to Leader by flarz.)
+[2014-07-11T02:11:45.129Z] (lobby) Pradham was promoted to Voice by inFluence_iV.
+[2014-07-11T02:41:39.085Z] (lobby) Prism_boTTT was promoted to Leader by inFluence_iV.
+[2014-07-11T03:51:16.733Z] (lobby) A Blaziken was promoted to Administrator by inFluence_iV.
+[2014-07-19T00:56:59.987Z] (lobby) orangefire4 was banned by inFluence_iV. (don't ask for auth) (99.88.121.94)
+[2014-07-19T00:57:32.003Z] (lobby) orangefire4 was unbanned by inFluence_iV.
+[2014-07-21T01:42:40.552Z] (lobby) Bryan AA was promoted to Driver by inFluence_iV.
+[2014-07-26T01:41:42.255Z] (lobby) Necroid Shaman was promoted to Voice by inFluence_iV.
+[2014-07-26T02:02:41.785Z] (lobby) inFluence_iV was promoted to Room Voice by ashiemore.
+[2014-07-26T02:03:05.740Z] (lobby) Blue53 was promoted to Room Voice by ashiemore.
+[2014-07-26T02:13:28.372Z] (lobby) (inFluence_iV was demoted to Room regular user by ashiemore.)
+[2014-07-26T02:14:21.736Z] (lobby) ashiemore was promoted to Leader by inFluence_iV.
+[2014-07-26T02:29:23.635Z] (lobby) Data_Overload was promoted to Moderator by Rival Nick.
+[2014-07-26T02:29:39.763Z] (lobby) Rival Nick was promoted to Room Voice by ashiemore.
+[2014-07-26T02:29:46.715Z] (lobby) (Rival Nick was demoted to Room regular user by ashiemore.)
+[2014-07-26T02:41:34.599Z] (lobby) Rosepetal was redirected to a private room by Rival Nick.
+[2014-07-26T02:46:41.769Z] (lobby) Blue53 was banned by Data_Overload. (Get rick'd now bitch) (71.71.238.226)
+[2014-07-26T02:46:57.657Z] (lobby) Blue53 was unlocked by Rosepetal.
+[2014-07-26T02:47:20.162Z] (lobby) Blue53 was unbanned by Data_Overload.
+[2014-07-26T02:47:31.196Z] (lobby) Data_Overload was warned by ashiemore.
+[2014-07-26T02:47:33.707Z] (lobby) Data_Overload was warned by ashiemore.
+[2014-07-26T02:47:35.058Z] (lobby) Data_Overload was warned by ashiemore.
+[2014-07-26T02:47:36.308Z] (lobby) Data_Overload was warned by ashiemore.
+[2014-07-26T02:47:37.512Z] (lobby) Data_Overload was warned by ashiemore.
+[2014-07-26T03:08:18.742Z] (lobby) Rival Bot was promoted to Moderator by Rival Nick.
+[2014-07-26T03:08:37.057Z] (lobby) Rival Bot was muted by ashiemore for 7 minutes.
+[2014-07-26T03:08:37.058Z] (lobby) Rival Bot's alts were also muted: Rival Nick
+[2014-07-26T03:08:41.262Z] (lobby) Rival Bot was unmuted by ashiemore.
+[2014-07-26T03:09:19.420Z] (lobby) Prop Hunt was unmuted by ashiemore.
+[2014-07-26T03:25:50.148Z] (lobby) (Rival Bot was demoted to Driver by Rival Nick.)
+[2014-07-26T03:28:14.157Z] (lobby) Rival Nick was promoted to Administrator by inFluence_iV.
+[2014-07-26T03:29:20.634Z] (lobby) (ashiemore notes: k)
+[2014-07-26T03:29:25.034Z] (lobby) (Rosepetal notes: what)
+[2014-07-26T03:29:47.694Z] (lobby) Rival Nick was promoted to Room Voice by ashiemore.
+[2014-07-26T03:29:52.519Z] (lobby) (Rival Nick was demoted to Leader by inFluence_iV.)
+[2014-07-26T03:29:52.675Z] (lobby) Rival Nick was banned from room lobby by ashiemore.
+[2014-07-26T03:29:52.675Z] (lobby) Rival Nick's alts were also banned from room lobby: Rival Bot
+[2014-07-26T03:29:59.764Z] (lobby) Rival Nick was unbanned from room lobby by ashiemore.
+[2014-07-26T03:29:59.764Z] (lobby) Rival Nick's alts were also unbanned from room lobby: Rival Bot
+[2014-07-26T03:30:13.515Z] (lobby) Rival Nick was warned by ashiemore. (caps)
+[2014-07-26T03:30:19.161Z] (lobby) (Rival Nick was demoted to Room regular user by ashiemore.)
+[2014-07-26T03:30:59.052Z] (lobby) (Rival Bot was demoted to Voice by Rival Nick.)
+[2014-07-26T03:35:41.172Z] (lobby) Rosepetal was muted by Data_Overload for 7 minutes. (Automated response: spam)
+[2014-07-26T03:35:59.988Z] (lobby) Rosepetal was unmuted by Data_Overload.
+[2014-07-26T04:39:03.231Z] (lobby) Rival Bot was redirected to a private room by Rival Nick.
+[2014-07-26T17:08:23.535Z] (lobby) GSC Snorlax Bot was promoted to Moderator by Rival Nick.
+[2014-07-26T17:13:10.757Z] (lobby) GSC Snorlax Bot was redirected to room Tech N' Code by Rival Nick.
+[2014-07-26T17:19:48.456Z] (lobby) GSC Snorlax Bot was redirected to room Tech N' Code by Rival Nick.
+[2014-07-26T17:31:14.233Z] (lobby) Rival Nick set modchat to false
+[2014-07-26T17:31:35.064Z] (lobby) GSC Snorlax Bot set modchat to +
+[2014-07-26T17:33:17.047Z] (lobby) GSC Snorlax Bot set modchat to false
+[2014-07-26T17:33:20.445Z] (lobby) GSC Snorlax Bot set modchat to autoconfirmed
+[2014-07-26T17:33:24.077Z] (lobby) GSC Snorlax Bot set modchat to +
+[2014-07-26T17:33:29.683Z] (lobby) GSC Snorlax Bot set modchat to false
+[2014-07-26T17:34:21.040Z] (lobby) GSC Snorlax Bot set modchat to autoconfirmed
+[2014-07-26T17:38:14.451Z] (lobby) GSC Snorlax Bot set modchat to false
+[2014-07-26T20:49:20.259Z] (lobby) Rival Nick set modchat to %
+[2014-07-26T20:49:33.092Z] (lobby) Rival Nick set modchat to false
+[2014-07-26T22:09:36.810Z] (lobby) Moderator Bot was promoted to Moderator by Rival Nick.
+[2014-07-26T22:09:41.141Z] (lobby) Moderator Bot set modchat to +
+[2014-07-26T22:09:44.433Z] (lobby) Moderator Bot set modchat to false
+[2014-07-26T22:09:57.118Z] (lobby) Moderator Bot set modchat to autoconfirmed
+[2014-07-26T22:11:47.559Z] (lobby) (Moderator Bot was demoted to Voice by Rival Nick.)
+[2014-07-26T22:12:28.900Z] (lobby) Rosepetal was promoted to Moderator by Rival Nick.
+[2014-07-26T22:22:38.894Z] (lobby) Moderator Bot was promoted to Driver by Rival Nick.
+[2014-07-26T22:24:42.750Z] (lobby) Bryan AA was redirected to a private room by Rival Nick.
+[2014-07-26T22:26:00.490Z] (lobby) Bryan AA was redirected to a private room by Rival Nick.
+[2014-07-26T22:27:29.688Z] (lobby) Rival Nick set modchat to %
+[2014-07-26T22:28:11.830Z] (lobby) Rival Nick set modchat to false
+[2014-07-26T22:28:29.433Z] (lobby) Rival Nick set modchat to +
+[2014-07-26T22:28:47.391Z] (lobby) Bryan AA was locked from talking by Rival Nick. (now u really cant talk)
+[2014-07-26T22:28:51.924Z] (lobby) Bryan AA was unlocked by Rival Nick.
+[2014-07-26T22:29:44.339Z] (lobby) Moderator Bot was promoted to Moderator by Rival Nick.
+[2014-07-26T22:29:49.109Z] (lobby) Moderator Bot set modchat to false
+[2014-07-26T23:44:41.446Z] (lobby) Moderator Bot set modchat to autoconfirmed
+[2014-07-26T23:49:42.156Z] (lobby) Moderator Bot set modchat to +
+[2014-07-26T23:49:46.597Z] (lobby) Moderator Bot set modchat to autoconfirmed
+[2014-07-26T23:49:56.629Z] (lobby) Moderator Bot set modchat to false
+[2014-07-26T23:50:08.928Z] (lobby) Moderator Bot set modchat to autoconfirmed
+[2014-07-27T02:26:04.578Z] (lobby) Moderator Bot set modchat to +
+[2014-07-27T02:26:09.377Z] (lobby) Moderator Bot set modchat to false
+[2014-07-27T04:19:37.138Z] (lobby) Moderator Bot set modchat to autoconfirmed
+[2014-07-29T01:17:55.570Z] (lobby) (A Blaziken was demoted to Leader by inFluence_iV.)
+[2014-07-29T01:20:39.288Z] (lobby) (A Blaziken was demoted to Voice by inFluence_iV.)
+[2014-07-29T01:20:44.250Z] (lobby) (A Blaziken was demoted to regular user by inFluence_iV.)
+[2014-07-29T01:20:50.756Z] (lobby) (flarz was demoted to Moderator by inFluence_iV.)
+[2014-07-29T01:20:56.229Z] (lobby) (flarz was demoted to Voice by inFluence_iV.)
+[2014-07-29T01:21:00.618Z] (lobby) (flarz was demoted to regular user by inFluence_iV.)
+[2014-07-29T01:35:32.335Z] (lobby) (pradham was demoted to regular user by inFluence_iV.)
+[2014-07-29T01:47:14.504Z] (lobby) Rival Nick set modchat to +
+[2014-07-29T01:47:22.418Z] (lobby) Rival Nick set modchat to false
+[2014-07-29T01:49:15.469Z] (lobby) Rival Nick was promoted to Administrator by inFluence_iV.
+[2014-07-29T01:54:02.373Z] (lobby) rosepetal was warned by Rival Nick. (R00d)
+[2014-07-29T01:55:59.351Z] (lobby) rosepetal was redirected to a private room by Rival Nick.
+[2014-07-29T01:57:12.252Z] (lobby) inFluence_iV was redirected to a private room by Rival Nick.
+[2014-07-29T04:08:27.407Z] (lobby) sw4mp4rt was promoted to Voice by inFluence_iV.
+[2014-07-29T04:08:36.216Z] (lobby) (sw4mp4rt was demoted to regular user by inFluence_iV.)
+[2014-07-29T04:09:26.092Z] (lobby) (yamiyugixd was demoted to regular user by inFluence_iV.)
+[2014-07-29T04:09:37.794Z] (lobby) (mbreezy was demoted to regular user by inFluence_iV.)
+[2014-07-29T04:10:03.100Z] (lobby) (xskelly34 was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:00:54.776Z] (lobby) (swaggytrainer was demoted to regular user by inFluence_iV.)
+[2014-08-02T16:01:18.863Z] (lobby) (norin was demoted to regular user by inFluence_iV.)
+[2014-08-02T22:17:50.740Z] (lobby) Catacomb was promoted to Driver by inFluence_iV.
+[2014-08-03T02:42:24.982Z] (lobby) Catacomb was warned by inFluence_iV. (Spam)
+[2014-08-06T03:53:27.311Z] (lobby) Rival Nick set modchat to autoconfirmed
+[2014-08-06T03:56:06.788Z] (lobby) Rival Nick was appointed Room Owner by Rival Nick.
+[2014-08-06T03:57:02.224Z] (lobby) Rival Nick set modchat to ~
+[2014-08-06T03:57:07.782Z] (lobby) Rival Nick set modchat to false
+[2014-08-06T03:58:15.810Z] (lobby) Da Lag was redirected to a private room by Rival Nick.
+[2014-08-06T04:01:00.941Z] (lobby) rivalbot was promoted to Moderator by Rival Nick.
+[2014-08-06T04:01:57.106Z] (lobby) (Moderator Bot was forced to choose a new name by Rival Nick)
+[2014-08-07T20:15:31.581Z] (lobby) super sonic x was warned by inFluence_iV. (Don't ask for auth again.)
+[2014-08-07T20:16:19.890Z] (lobby) super sonic x was warned by inFluence_iV. (No matter what you think, it won't change my opinion and other staff members.)
+[2014-08-07T20:16:41.088Z] (lobby) super sonic x was banned by inFluence_iV. (186.45.94.66)
+[2014-08-08T01:42:03.453Z] (lobby) Rival Nick set modchat to autoconfirmed
+[2014-08-13T23:01:42.385Z] (lobby) HoeenKid was promoted to Room Voice by inFluence_iV.
+[2014-08-14T03:33:33.714Z] (lobby) hoennkid was promoted to Voice by Rival Nick.
+[2014-08-15T13:55:56.348Z] (lobby) Rival Nick declared Im a programmer admin, dont worry ~Rival
+[2014-08-15T14:15:12.898Z] (lobby) hoennkid was promoted to Driver by Rival Nick.
+[2014-08-15T14:15:28.791Z] (lobby) (HoeenKid was demoted to Room regular user by Rival Nick.)
+[2014-08-15T14:15:35.151Z] (lobby) HoeenKid was promoted to Driver by Rival Nick.
+[2014-08-15T16:19:47.042Z] (lobby) (hoeenkid was demoted to Voice by Rival Nick.)
+[2014-08-15T17:00:31.591Z] (lobby) (Rival Nick notes: I am sick and tired)
+[2014-08-15T17:19:52.052Z] (lobby) Rival Nick set modchat to ~
+[2014-08-15T17:19:59.273Z] (lobby) Rival Nick set modchat to false
+[2014-08-15T17:20:03.313Z] (lobby) Rival Nick set modchat to autoconfirmed
+[2014-08-15T17:23:39.402Z] (lobby) Illegally_Insane was redirected to a private room by Rival Nick.
+[2014-08-15T17:28:39.235Z] (lobby) HoeenKid was promoted to Room Driver by Rival Nick.
+[2014-08-15T17:33:08.247Z] (lobby) Pikachuun was locked from talking by Rival Nick. (end u)
+[2014-08-15T17:33:11.325Z] (lobby) Pikachuun was unlocked by Rival Nick.
+[2014-08-15T17:39:28.095Z] (lobby) Rosepetal set modchat to false
+[2014-08-15T17:39:45.282Z] (lobby) Rival Nick set modchat to ~
+[2014-08-15T17:39:49.888Z] (lobby) Rival Nick set modchat to false
+[2014-08-15T17:45:03.761Z] (lobby) (Sorryforyourloss was demoted to regular user by Rosepetal.)
+[2014-08-15T17:51:13.104Z] (lobby) Rival Nick declared 2 person tour OP
+[2014-08-15T17:52:24.113Z] (lobby) Rosepetal was appointed Room Owner by Rival Nick.
+[2014-08-15T17:53:07.090Z] (lobby) StarGate Bot was promoted to Moderator by Rival Nick.
+[2014-08-15T18:05:41.351Z] (lobby) P@lAntek was redirected to a private room by Rival Nick.
+[2014-08-15T18:17:59.434Z] (lobby) HoeenKid was appointed Room Owner by inFluence_iV.
+[2014-08-15T18:25:04.510Z] (lobby) HoeenKid was promoted to Leader by inFluence_iV.
+[2014-08-15T18:39:32.927Z] (lobby) Pradham was promoted to Room Voice by HoeenKid.
+[2014-08-15T19:08:22.227Z] (lobby) (hoennkid was demoted to Voice by Rival Nick.)
+[2014-08-15T19:08:46.397Z] (lobby) HoeenKid was promoted to Room Moderator by Rival Nick.
+[2014-08-15T19:09:44.520Z] (lobby) (HoeenKid was demoted to Room Driver by Rival Nick.)
+[2014-08-15T20:15:15.086Z] (lobby) (HoeenKid was demoted to Voice by inFluence_iV.)
+[2014-08-15T20:15:26.050Z] (lobby) (HoeenKid was demoted to regular user by inFluence_iV.)
+[2014-08-15T20:31:04.391Z] (lobby) HoeenKid was promoted to Driver by inFluence_iV.
+[2014-08-15T22:07:11.837Z] (lobby) Rival Nick declared Do not advertize this server
+[2014-08-15T22:07:18.784Z] (lobby) Rival Nick declared You will be permalocked
+[2014-08-15T22:07:24.814Z] (lobby) Rival Nick declared on this server
+[2014-08-15T22:12:33.877Z] (lobby) Rival Nick was appointed Room Owner by Rival Nick.
+[2014-08-15T22:12:46.358Z] (lobby) StarGate Bot was appointed Room Owner by Rival Nick.
+[2014-08-15T22:18:14.555Z] (lobby) StarGate Bot was promoted to Leader by Rival Nick.
+[2014-08-15T22:25:48.984Z] (lobby) Rival Nick declared Challenge Cup is going to be the next tour
+[2014-08-16T00:25:50.887Z] (lobby) P@lAntek was warned by HoeenKid. (only to freinds please we don't want to get removed.)
+[2014-08-16T00:32:31.105Z] (lobby) HoeenKid was promoted to Room Moderator by Rival Nick.
+[2014-08-16T20:52:31.369Z] (lobby) (HoeenKid was demoted to Voice by Rival Nick.)
+[2014-08-16T20:52:39.166Z] (lobby) (HoeenKid was demoted to Room Driver by Rival Nick.)
+[2014-08-16T20:52:45.011Z] (lobby) (HoeenKid was demoted to Room Voice by Rival Nick.)
+[2014-08-16T20:53:22.576Z] (lobby) The Pokemon of the Day was changed to fuck by Rival Nick.
+[2014-08-16T20:53:32.020Z] (lobby) Rival Nick set modchat to autoconfirmed
+[2014-08-17T14:22:15.213Z] (lobby) hoeenkid was unbanned by Rival Nick.
+[2014-08-17T21:20:34.078Z] (lobby) HoeenKid was appointed Room Owner by inFluence_iV.
+[2014-08-17T22:42:36.182Z] (lobby) The Pokemon of the Day was removed by Rosepetal.
+[2014-08-19T00:46:23.600Z] (lobby) PokeMontreal was banned by Rosepetal. (Spam) (70.81.158.177)
+[2014-08-19T01:13:29.526Z] (lobby)  was promoted to Voice by inFluence_iV.
+[2014-08-19T01:59:12.994Z] (lobby) ashiemore was promoted to Room Voice by ashiemore.
+[2014-08-19T01:59:51.868Z] (lobby) (ashiemore was demoted to Room regular user by inFluence_iV.)
+[2014-08-19T16:09:00.098Z] (lobby) inFluence_iV globally declared Server will be updating to the current PS server files. (Sometime within the next day or so)
+[2014-08-19T16:09:41.186Z] (lobby) inFluence_iV globally declared As well there will be new formats added soon. ~ inFluence_iV
+[2014-08-19T18:33:52.838Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-08-19T19:17:54.799Z] (lobby) HoeenKid set modchat to false
+[2014-08-19T19:50:26.097Z] (lobby) Fort Yellowcastle was warned by HoeenKid. (once)
+[2014-08-19T20:39:43.002Z] (lobby) _SmartGengar_ was banned by HoeenKid. (spam) (81.50.143.205)
+[2014-08-19T21:03:34.957Z] (lobby) god charsatares was banned by inFluence_iV. (74.88.1.127)
+[2014-08-19T21:05:27.421Z] (lobby) (HoeenKid was demoted to Voice by inFluence_iV.)
+[2014-08-20T00:47:52.318Z] (lobby) (pradham was demoted to Room regular user by inFluence_iV.)
+[2014-08-20T01:56:15.427Z] (lobby) Catacomb was redirected to room XY Meta by Rosepetal.
+[2014-08-20T03:31:06.864Z] (lobby) Rival Nick set modchat to autoconfirmed
+[2014-08-20T20:39:05.053Z] (lobby) RIVAL NICK set modchat to +
+[2014-08-20T20:39:09.690Z] (lobby) RIVAL NICK set modchat to autoconfirmed
+[2014-08-20T21:21:18.842Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-08-20T22:08:14.635Z] (lobby) HoeenKid was locked from talking by HoeenKid.
+[2014-08-20T22:08:23.587Z] (lobby) HoeenKid was unlocked by HoeenKid.
+[2014-08-20T22:51:18.978Z] (lobby) BattleDragon was warned by HoeenKid. (stop bugging the ~s they may bite)
+[2014-08-20T22:57:04.155Z] (lobby) BattleDragon was warned by Catacomb. (i would tota)
+[2014-08-20T22:58:23.908Z] (lobby) Catacomb was warned by HoeenKid. (language and warn for no reson)
+[2014-08-20T23:35:26.197Z] (lobby) HoeenKid was warned by HoeenKid. (made msitake)
+[2014-08-20T23:58:29.275Z] (lobby) (HoeenKid was demoted to Voice by inFluence_iV.)
+[2014-08-21T00:17:31.114Z] (lobby) Catacomb was warned by inFluence_iV. (Enough)
+[2014-08-21T00:17:53.323Z] (lobby) BattleDragon was warned by inFluence_iV. (Same with you.)
+[2014-08-21T00:45:43.633Z] (lobby) MrAppleSlices was warned by Catacomb.
+[2014-08-22T01:25:39.663Z] (lobby) tarico was warned by Catacomb. (english only in lobby.)
+[2014-08-22T02:04:54.837Z] (lobby) super sonic x was warned by inFluence_iV. (Don't spam the lobby.)
+[2014-08-22T02:53:47.895Z] (lobby) Rival Nick set modchat to ~
+[2014-08-22T02:53:58.589Z] (lobby) Rival Nick set modchat to false
+[2014-08-22T02:57:42.872Z] (lobby) (StarGate Bot notes: influenceiv was added to the blacklist by ~Rival Nick.)
+[2014-08-22T02:59:56.236Z] (lobby) StarGate Bot was appointed Room Owner by Rival Nick.
+[2014-08-22T22:22:47.649Z] (lobby) (HoeenKid was demoted to Driver by inFluence_iV.)
+[2014-08-22T22:31:34.975Z] (lobby) Scarlet Pimpernel was promoted to Administrator by inFluence_iV.
+[2014-08-22T22:32:46.528Z] (lobby) NickXVZ was warned by inFluence_iV. (?????????)
+[2014-08-22T23:05:57.852Z] (lobby) PokeMontreal was locked from talking by HoeenKid. (requested ban & former spammer & former ban)
+[2014-08-22T23:05:57.853Z] (lobby) (PokeMontreal's ac account: pokemontreal)
+[2014-08-22T23:07:38.161Z] (lobby) PokeMontreal was banned by Rosepetal. (70.81.158.177)
+[2014-08-22T23:19:49.919Z] (lobby) flarz was promoted to Voice by inFluence_iV.
+[2014-08-22T23:22:20.082Z] (lobby) flarz was redirected to a private room by Rival.
+[2014-08-22T23:26:25.183Z] (lobby) (Rival created a tournament in challengecup1vs1 format.)
+[2014-08-22T23:28:19.844Z] (lobby) Rival was promoted to Administrator by inFluence_iV.
+[2014-08-22T23:33:26.951Z] (lobby) (The tournament auto disqualify timeout was set to 2 by Rival)
+[2014-08-23T00:32:06.052Z] (lobby) swirlyder was redirected to room Mafia by flarz.
+[2014-08-23T00:32:51.392Z] (lobby) NickXVZ was redirected to room Mafia by HoeenKid.
+[2014-08-23T01:54:43.188Z] (lobby) svbs was muted by Catacomb for 60 minutes.
+[2014-08-23T01:55:10.007Z] (lobby) svbs was unmuted by HoeenKid.
+[2014-08-23T01:57:49.594Z] (lobby) Catacomb was unmuted by inFluence_iV.
+[2014-08-23T02:39:32.165Z] (lobby) Dusk Apex was warned by Catacomb. (only i can say that :ccc)
+[2014-08-23T02:43:54.175Z] (lobby) flarz was locked from talking by Catacomb. (abuse)
+[2014-08-23T02:43:54.176Z] (lobby) (flarz's ac account: flarz)
+[2014-08-23T02:43:57.108Z] (lobby) flarz was unlocked by Catacomb.
+[2014-08-23T18:11:49.544Z] (lobby) HoeenKid was appointed Room Owner by inFluence_iV.
+[2014-08-23T18:13:13.824Z] (lobby) Dusk Apex was warned by inFluence_iV. (Don't ask for auth.)
+[2014-08-23T18:14:13.666Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T18:14:38.705Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T18:14:45.719Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T18:17:55.595Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T18:19:07.762Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T18:26:15.371Z] (lobby) Dusk Apex was warned by HoeenKid. (end of conversation.)
+[2014-08-23T18:27:40.769Z] (lobby) Dusk Apex was muted by HoeenKid for 7 minutes. (was warned)
+[2014-08-23T18:29:37.658Z] (lobby) Dusk Apex was muted by HoeenKid for 60 minutes. (continueing im pms)
+[2014-08-23T18:32:24.751Z] (lobby) Dusk Apex was warned by HoeenKid. (final chance stop pm spam or lock)
+[2014-08-23T18:32:47.106Z] (lobby) Dusk Apex was locked from talking by HoeenKid. (wont give up on it)
+[2014-08-23T19:14:46.245Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T19:25:03.138Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T19:43:52.286Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T19:44:04.198Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T20:22:34.402Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T20:23:37.752Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T20:25:39.745Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T20:28:15.593Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T20:28:24.274Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-23T20:31:52.177Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-24T02:53:26.875Z] (lobby) gday was redirected to room Create-A-Pokemon by flarz.
+[2014-08-24T03:15:40.217Z] (lobby) JigglykongisFUM16 was redirected to room Random Battles Meta by HoeenKid.
+[2014-08-24T03:51:31.835Z] (lobby) (inFluence_iV created a tournament in challengecup1vs1 format.)
+[2014-08-24T03:51:53.586Z] (lobby) Blue53 was redirected to a private room by flarz.
+[2014-08-24T04:05:52.871Z] (lobby) (Blue53 was disqualified from the tournament by inFluence_iV)
+[2014-08-25T01:24:44.020Z] (lobby) StarGate Bot was appointed Room Owner by inFluence_iV.
+[2014-08-25T01:31:45.770Z] (lobby) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-08-25T02:12:08.497Z] (lobby) (StarGate Bot was demoted to Moderator by inFluence_iV.)
+[2014-08-25T02:18:24.132Z] (lobby) (inFluence_iV was demoted to Moderator by inFluence_iV.)
+[2014-08-25T02:26:50.240Z] (lobby) inFluence_iV was promoted to Administrator by Scarlet Pimpernel.
+[2014-08-25T02:58:51.805Z] (lobby) StarGate Bot was redirected to room Battle Spot Meta by inFluence_iV.
+[2014-08-25T23:21:23.949Z] (lobby) Mega Eevee X was redirected to room Mafia by Catacomb.
+[2014-08-25T23:44:51.295Z] (lobby) HoeenKid was appointed Room Owner by inFluence_iV.
+[2014-08-25T23:45:19.389Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-25T23:47:21.650Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-25T23:47:53.112Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-25T23:48:07.333Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-26T01:00:40.440Z] (lobby) (StarGate Bot notes: htmlboxess was added to the blacklist by ~inFluence_iV.)
+[2014-08-26T01:02:53.662Z] (lobby) (StarGate Bot notes: rosepetal was added to the blacklist by ~inFluence_iV.)
+[2014-08-26T01:19:58.413Z] (lobby) (StarGate Bot notes: rosepetal was added to the blacklist by ~inFluence_iV.)
+[2014-08-26T01:50:40.835Z] (lobby) Gavgar was muted by flarz for 7 minutes.
+[2014-08-26T23:25:24.868Z] (lobby) (inFluence_iV created a tournament in trulyrandombattle format.)
+[2014-08-27T17:22:10.597Z] (lobby) CoolCubchoo(⌐■_■) was warned by HoeenKid. (THAT HURT)
+[2014-08-27T17:23:53.095Z] (lobby) CoolCubchoo(⌐■_■) was muted by HoeenKid for 7 minutes. (R.I.P)
+[2014-08-27T17:24:02.694Z] (lobby) CoolCubchoo(⌐■_■) was unmuted by HoeenKid.
+[2014-08-27T21:36:43.695Z] (lobby) FLARZ was warned by ashiemore. (nub)
+[2014-08-28T02:50:53.443Z] (lobby) inFluence_iV set modchat to +
+[2014-08-28T03:14:27.534Z] (lobby) Scarlet Pimpernel set modchat to false
+[2014-08-28T17:25:27.909Z] (lobby) PokeMontreal was banned by HoeenKid. (BLACKLISTED USER) (70.81.158.177)
+[2014-08-28T17:25:27.910Z] (lobby) (PokeMontreal's ac account: pokemontreal)
+[2014-08-29T00:11:59.452Z] (lobby) inFluence_iV temporarily banned the IP: ModsAreLosers,  50.172.66.171
+[2014-08-29T19:23:01.973Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-08-29T19:32:03.401Z] (lobby) HoeenKid globally declared server work in-progress expect lag ~hoeenkid
+[2014-08-29T19:58:09.662Z] (lobby) (HoeenKid was demoted to Leader by inFluence_iV.)
+[2014-08-29T22:49:21.561Z] (lobby) flarz was warned by inFluence_iV. (temp)
+[2014-08-29T22:49:34.448Z] (lobby) flarz was warned by inFluence_iV. (temp admin)
+[2014-08-29T23:10:09.239Z] (lobby) HoeenKid was redirected to a private room by flarz.
+[2014-08-29T23:24:01.884Z] (lobby) avatar_ares was warned by HoeenKid. (stop)
+[2014-08-29T23:24:57.352Z] (lobby) avatar_ares was muted by HoeenKid for 7 minutes. (warned)
+[2014-08-29T23:24:57.353Z] (lobby) (avatar_ares's alts were also muted: donphansbiggestfan)
+[2014-08-29T23:28:18.001Z] (lobby) donphansbiggestfan was unmuted by HoeenKid.
+[2014-08-29T23:34:42.507Z] (lobby) (flarz created a tournament in trulyrandombattle format.)
+[2014-08-29T23:35:14.200Z] (lobby) avatar_ares was warned by HoeenKid. (stop)
+[2014-08-29T23:38:07.132Z] (lobby) (flarz forcibly ended a tournament.)
+[2014-08-29T23:38:15.565Z] (lobby) (flarz created a tournament in randombattle format.)
+[2014-08-29T23:42:00.227Z] (lobby) avatar_ares was warned by HoeenKid. (stop join/leave)
+[2014-08-29T23:43:09.741Z] (lobby) (avatar_ares was disqualified from the tournament by flarz)
+[2014-08-30T01:03:10.585Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-08-30T01:03:28.402Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-08-30T01:03:42.192Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-08-30T01:05:20.047Z] (lobby) (flarz was demoted to Driver by inFluence_iV.)
+[2014-08-30T01:05:33.619Z] (lobby) (HoeenKid was demoted to Leader by inFluence_iV.)
+[2014-08-30T01:06:04.373Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-08-30T01:08:46.223Z] (lobby) AvAtAr_Ares was locked from talking by flarz. (:I)
+[2014-08-30T01:09:01.044Z] (lobby) AvAtAr_Ares was unlocked by HoeenKid.
+[2014-08-30T01:10:22.069Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-30T01:14:56.173Z] (lobby) (HoeenKid created a tournament in trulyrandombattle format.)
+[2014-08-30T01:15:06.169Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-08-30T01:16:24.074Z] (lobby) (HoeenKid was demoted to Leader by inFluence_iV.)
+[2014-08-30T01:29:21.998Z] (lobby) Dusk Apex was warned by HoeenKid. (don't insult thy overlords)
+[2014-08-30T01:30:05.487Z] (lobby) Dusk Apex was warned by inFluence_iV. (shhh)
+[2014-08-30T16:10:44.135Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-08-30T16:10:45.773Z] (lobby) The Pokemon of the Day was changed to tomohawk by HoeenKid.
+[2014-08-30T16:12:25.388Z] (lobby) The Pokemon of the Day was changed to tomohawk by HoeenKid.
+[2014-08-30T16:19:43.084Z] (lobby) (HoeenKid was demoted to Leader by inFluence_iV.)
+[2014-08-30T16:24:12.651Z] (lobby) Ash Immortal was warned by flarz. (terrible song rofl)
+[2014-08-31T14:03:49.066Z] (lobby) The Pokemon of the Day was removed by ashiemore.
+[2014-08-31T16:27:33.723Z] (lobby) Ash Immortal was warned by HoeenKid. (strecvhing)
+[2014-08-31T18:57:06.775Z] (lobby) The Pokemon of the Day was changed to Rosepetal by HoeenKid.
+[2014-08-31T18:58:04.154Z] (lobby) The Pokemon of the Day was changed to inFluence_iV by Rosepetal.
+[2014-08-31T19:06:43.086Z] (lobby) The Pokemon of the Day was changed to Fidgit by HoeenKid.
+[2014-08-31T19:48:03.085Z] (lobby) PikaBoTTT was promoted to Moderator by Rosepetal.
+[2014-08-31T19:56:34.851Z] (lobby) The Pokemon of the Day was changed to MoxieInfinite by ashiemore.
+[2014-08-31T19:58:42.284Z] (lobby) Rosepetal-test was muted by PikaBoTTT for 7 minutes. ((automated response) you were promoted to !)
+[2014-08-31T20:02:26.401Z] (lobby) rosepetaltesttt was unmuted by PikaBoTTT.
+[2014-08-31T20:10:16.599Z] (lobby) MoxieInfinite was locked from talking by HoeenKid.
+[2014-08-31T20:10:16.600Z] (lobby) (MoxieInfinite's ac account: moxieinfinite)
+[2014-08-31T20:10:22.522Z] (lobby) (MoxieInfinite would be locked by Rosepetal but was already locked.)
+[2014-08-31T20:10:25.946Z] (lobby) MoxieInfinite was unlocked by ashiemore.
+[2014-08-31T20:10:30.939Z] (lobby) MoxieInfinite was locked from talking by HoeenKid.
+[2014-08-31T20:10:32.518Z] (lobby) MoxieInfinite was unlocked by HoeenKid.
+[2014-08-31T20:14:22.957Z] (lobby) Rosepetal was promoted to Room Voice by Rosepetal.
+[2014-08-31T20:18:52.209Z] (lobby) (Rosepetal was demoted to Room regular user by HoeenKid.)
+[2014-08-31T20:19:24.260Z] (lobby) HoeenKid was promoted to Room Voice by ashiemore.
+[2014-08-31T20:19:33.984Z] (lobby) (HoeenKid was demoted to Room regular user by ashiemore.)
+[2014-08-31T20:21:11.284Z] (lobby) ashiemore was promoted to Room Voice by Rosepetal.
+[2014-08-31T20:21:15.054Z] (lobby) ashiemore was warned by Rosepetal.
+[2014-08-31T20:21:16.651Z] (lobby) ashiemore was warned by Rosepetal.
+[2014-08-31T20:21:55.677Z] (lobby) (ashiemore was demoted to Room regular user by Rosepetal.)
+[2014-08-31T21:21:31.197Z] (lobby) (PikaBoTTT was forced to choose a new name by ashiemore)
+[2014-08-31T21:23:46.719Z] (lobby) ashiemore was promoted to Room Voice by Rosepetal.
+[2014-08-31T21:24:21.731Z] (lobby) (ashiemore was demoted to Room regular user by Rosepetal.)
+[2014-08-31T21:28:35.778Z] (lobby) Rosepetal was promoted to Room Voice by ashiemore.
+[2014-08-31T21:28:51.304Z] (lobby) (Rosepetal was demoted to Room regular user by ashiemore.)
+[2014-08-31T21:30:33.981Z] (lobby) The Pokemon of the Day was removed by ashiemore.
+[2014-08-31T21:30:57.798Z] (lobby) The Pokemon of the Day was changed to HoeenKid by HoeenKid.
+[2014-08-31T21:31:13.698Z] (lobby) The Pokemon of the Day was changed to inFluence_iV by ashiemore.
+[2014-08-31T21:32:04.082Z] (lobby) The Pokemon of the Day was changed to HoeenKid by HoeenKid.
+[2014-08-31T21:32:20.034Z] (lobby) The Pokemon of the Day was changed to ashiemore by Rosepetal.
+[2014-08-31T21:32:38.256Z] (lobby) The Pokemon of the Day was changed to KA_BOOM by HoeenKid.
+[2014-08-31T21:33:06.393Z] (lobby) The Pokemon of the Day was changed to MoxieInfinite by Rosepetal.
+[2014-08-31T21:33:15.483Z] (lobby) The Pokemon of the Day was changed to Your Colon by HoeenKid.
+[2014-08-31T21:34:05.193Z] (lobby) The Pokemon of the Day was changed to removed by ashiemore.
+[2014-08-31T21:34:15.097Z] (lobby) The Pokemon of the Day was changed to Your Colon by HoeenKid.
+[2014-08-31T21:35:29.778Z] (lobby) The Pokemon of the Day was changed to Abraham Lincoln by HoeenKid.
+[2014-08-31T22:01:23.615Z] (lobby) The Pokemon of the Day was changed to HoeenKid by HoeenKid.
+[2014-08-31T22:49:23.871Z] (lobby) HoeenKid set modchat to &
+[2014-08-31T22:49:29.165Z] (lobby) HoeenKid set modchat to false
+[2014-08-31T22:58:29.856Z] (lobby) HoeenKid set modchat to autoconfirmed
+[2014-08-31T23:03:32.726Z] (lobby) jumi was warned by HoeenKid. (dont)
+[2014-08-31T23:11:35.521Z] (lobby) The Pokemon of the Day was changed to ShinyBlaziken2000 by HoeenKid.
+[2014-08-31T23:18:50.913Z] (lobby) The Pokemon of the Day was changed to HoeenKid by ashiemore.
+[2014-08-31T23:19:14.618Z] (lobby) rosepetal declared Anyone who wants to, get on the Truly Random Battle ladder! 
+[2014-08-31T23:24:28.180Z] (lobby) (PikaBoTTT was forced to choose a new name by ashiemore)
+[2014-08-31T23:37:52.736Z] (lobby) ShinyBlaziken2000 was muted by PikaBoTTT for 7 minutes. (ShinyBlaziken2000 was promoted to ! by PikaBoTTT)
+[2014-08-31T23:37:58.822Z] (lobby) ShinyBlaziken2000 was unmuted by PikaBoTTT.
+[2014-09-01T01:24:02.550Z] (lobby) The Pokemon of the Day was changed to George Washington by PikaBoTTT.
+[2014-09-01T01:24:18.051Z] (lobby) PikaBoTTT was warned by inFluence_iV. (stop impersonating pikachu)
+[2014-09-01T01:29:06.518Z] (lobby) (PikaBoTTT was demoted to Moderator by inFluence_iV.)
+[2014-09-01T01:36:52.429Z] (lobby) The Pokemon of the Day was changed to inFluence_iV by ashiemore.
+[2014-09-01T01:43:51.649Z] (lobby) The Pokemon of the Day was changed to BattleDragon by rosepetal.
+[2014-09-01T01:44:08.078Z] (lobby) The Pokemon of the Day was changed to rosepetal by ashiemore.
+[2014-09-01T01:44:18.433Z] (lobby) The Pokemon of the Day was changed to ashiemore by rosepetal.
+[2014-09-01T01:46:00.971Z] (lobby) inFluence_iV set modchat to ~
+[2014-09-01T01:46:23.838Z] (lobby) inFluence_iV set modchat to false
+[2014-09-01T01:47:36.061Z] (lobby) The Pokemon of the Day was changed to removed by ashiemore.
+[2014-09-01T01:47:55.924Z] (lobby) The Pokemon of the Day was removed by rosepetal.
+[2014-09-01T04:11:45.964Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:13:32.608Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:14:22.842Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:15:00.684Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:15:59.243Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:16:28.657Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:18:22.157Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:23:46.866Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:26:33.446Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:40:08.472Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:43:59.680Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T04:55:04.227Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T05:02:36.701Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T15:03:14.206Z] (lobby) Legit Button was promoted to Voice by inFluence_iV.
+[2014-09-01T16:26:26.970Z] (lobby) (ashiemore changed the roomintro.)
+[2014-09-01T16:26:32.392Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-01T16:26:37.026Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-09-01T16:27:04.923Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-01T16:27:12.082Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-09-01T16:27:12.945Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-01T16:27:36.003Z] (lobby) (ashiemore changed the roomintro.)
+[2014-09-01T16:27:47.636Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-01T16:27:51.649Z] (lobby) (HoeenKid changed the roomintro.)
+[2014-09-01T16:28:37.319Z] (lobby) (ashiemore changed the roomintro.)
+[2014-09-01T16:28:44.771Z] (lobby) (ashiemore changed the roomintro.)
+[2014-09-01T16:33:40.952Z] (lobby) (rosepetal changed the roomdesc to: "Welcome to the Prism Server!".)
+[2014-09-01T17:09:18.115Z] (lobby) rosepetal was promoted to Room Voice by rosepetal.
+[2014-09-01T17:09:39.675Z] (lobby) (rosepetal was demoted to Room regular user by HoeenKid.)
+[2014-09-01T18:59:32.992Z] (lobby) ShinyBlaziken2000 was warned by HoeenKid. (I always win ~~except when I lose~~)
+[2014-09-01T19:51:51.396Z] (lobby) inFluence_iV globally declared The server may be restarting soon.
+[2014-09-01T19:55:10.972Z] (lobby) The Pokemon of the Day was changed to bobthedestoyer by HoeenKid.
+[2014-09-01T19:55:34.536Z] (lobby) The Pokemon of the Day was changed to inFluence_iV by ashiemore.
+[2014-09-01T19:56:06.463Z] (lobby) The Pokemon of the Day was changed to bobthedestoyer by HoeenKid.
+[2014-09-01T19:57:16.396Z] (lobby) The Pokemon of the Day was changed to George Washington by HoeenKid.
+[2014-09-01T19:57:36.441Z] (lobby) The Pokemon of the Day was changed to /potd by ashiemore.
+[2014-09-01T19:57:40.435Z] (lobby) The Pokemon of the Day was changed to George Washington by HoeenKid.
+[2014-09-01T19:57:47.864Z] (lobby) The Pokemon of the Day was changed to disable by inFluence_iV.
+[2014-09-01T19:57:54.415Z] (lobby) The Pokemon of the Day was changed to off by inFluence_iV.
+[2014-09-01T19:58:05.498Z] (lobby) The Pokemon of the Day was removed by HoeenKid.
+[2014-09-01T20:11:48.832Z] (lobby) inFluence_iV globally declared Random Mono types now work.
+[2014-09-01T20:13:43.387Z] (lobby) The Pokemon of the Day was changed to AshieMore by inFluence_iV.
+[2014-09-01T20:18:01.843Z] (lobby) The Pokemon of the Day was changed to ash.more52 by Rosepetal.
+[2014-09-01T22:00:54.170Z] (lobby) inFluence_iV was promoted to Room Voice by ashiemore.
+[2014-09-01T22:01:04.739Z] (lobby) (inFluence_iV was demoted to Room regular user by ashiemore.)
+[2014-09-02T21:19:42.430Z] (lobby) scientist eldes was locked from talking by HoeenKid. (doing that everywhere)
+[2014-09-02T21:57:14.437Z] (lobby) scientist eldes was banned by HoeenKid. (tsk tsk spamers who lie) (74.88.1.127)
+[2014-09-02T23:06:53.598Z] (lobby) LOL@YURLADDER was locked from talking by HoeenKid.
+[2014-09-02T23:06:53.598Z] (lobby) (LOL@YURLADDER's locked alts: AvAtAr_Ares)
+[2014-09-02T23:07:09.086Z] (lobby) (AvAtAr_Ares would be locked by HoeenKid but was already locked.)
+[2014-09-03T00:03:03.243Z] (lobby) HoeenKid was promoted to Administrator by inFluence_iV.
+[2014-09-03T00:06:40.558Z] (lobby) (HoeenKid was demoted to Leader by HoeenKid.)
+[2014-09-03T00:09:35.937Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-03T11:31:32.666Z] (lobby) eekgadz was warned by HoeenKid. (spam)
+[2014-09-03T18:25:40.728Z] (lobby) (Sex is Life was forced to choose a new name by HoeenKid)
+[2014-09-03T18:26:01.762Z] (lobby) Sex is Life was warned by HoeenKid. (change it)
+[2014-09-03T18:26:02.863Z] (lobby) (Sex is Life was forced to choose a new name by HoeenKid)
+[2014-09-04T22:59:46.785Z] (lobby) ShinyBlaziken2000 was promoted to Voice by HoeenKid.
+[2014-09-05T00:17:28.301Z] (lobby) (ShinyBlaziken2000 was demoted to regular user by HoeenKid.)
+[2014-09-05T21:04:22.153Z] (lobby) Rival set modchat to autoconfirmed
+[2014-09-06T03:18:24.252Z] (lobby) I'm a Genesect was promoted to Driver by inFluence_iV.
+[2014-09-06T03:45:37.469Z] (lobby) I'm a Genesect was redirected to a private room by inFluence_iV.
+[2014-09-08T00:03:42.970Z] (lobby) HoeenKid temporarily banned the IP: 23.118.120.145, attempting to get johto de-registered by advertsing on all serevrs
+[2014-09-08T00:28:58.610Z] (lobby) firebreathingyoshi was warned by HoeenKid. (respect the staff)
+[2014-09-08T22:45:58.438Z] (lobby) Fr?ntier.B Kathey was banned by HoeenKid. (advertising (trying to get johto de-registed)) (23.118.120.145)
+[2014-09-08T22:45:58.438Z] (lobby) (Fr?ntier.B Kathey's ac account: frntierbkathey)
+[2014-09-11T00:56:26.524Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T00:57:14.479Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T00:58:01.682Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T00:59:29.454Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T00:59:46.474Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T01:00:26.620Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T01:17:03.388Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T01:17:28.563Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T01:20:37.243Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-11T01:24:01.537Z] (lobby) rptl was promoted to Leader by inFluence_iV.
+[2014-09-11T01:37:44.120Z] (lobby) inFluence_iV globally declared If you have a room please don't abuse your powers in it. 
+[2014-09-12T02:54:10.796Z] (lobby) (inFluence_iV changed the roomintro.)
+[2014-09-13T23:53:59.704Z] (lobby) (flarz was demoted to Voice by inFluence_iV.)
+[2014-09-13T23:54:05.884Z] (lobby) (flarz was demoted to regular user by inFluence_iV.)
+[2014-09-14T03:23:38.510Z] (lobby) Necroid Shaman was redirected to room New Simulator Ideas by inFluence_iV.
+[2014-09-14T22:40:30.716Z] (lobby) JoeDiggetyDog was locked from talking by rosepetal.
+[2014-09-14T22:40:30.717Z] (lobby) (JoeDiggetyDog's ac account: joediggetydog)
+[2014-09-16T00:24:48.264Z] (lobby) PokeMontreal was locked from talking by rosepetal.
+[2014-09-16T00:24:48.265Z] (lobby) (PokeMontreal's ac account: pokemontreal)
+[2014-09-16T00:25:26.348Z] (lobby) VicariousNeos was promoted to Voice by inFluence_iV.
+[2014-09-17T16:08:50.951Z] (lobby) inFluence_iV set modchat to +
+[2014-09-18T01:26:54.878Z] (lobby) FLARZ was promoted to Voice by Rosepetal.
+[2014-09-19T00:43:32.631Z] (lobby) flarz was promoted to Administrator by inFluence_iV.
+[2014-09-19T00:47:17.449Z] (lobby) inFluence_iV globally declared ATTENTION: No rooms will be created for anyone.
+[2014-09-19T00:57:27.032Z] (lobby) rosepetal was promoted to Administrator by inFluence_iV.
+[2014-09-19T01:02:21.858Z] (lobby) flarz globally declared ATTENTION: We are in the process of making our first custom tier! /join S Tier
+[2014-09-19T18:09:35.362Z] (lobby) FLARZ set modchat to false
+[2014-09-19T18:58:01.533Z] (lobby) Blue53 was promoted to Voice by flarz.
+[2014-09-19T18:58:11.241Z] (lobby) (Blue53 was demoted to Room regular user by flarz.)
+[2014-09-19T19:12:57.350Z] (lobby) amaniania was locked from talking by I'm a Genesect.
+[2014-09-19T19:12:57.350Z] (lobby) (amaniania's ac account: amaniania)
+[2014-09-19T19:12:57.951Z] (lobby) amaniania was unlocked by I'm a Genesect.
+[2014-09-20T02:12:55.272Z] (lobby) Marshalll Mathers was promoted to Administrator by inFluence_iV.
+[2014-09-20T02:31:51.470Z] (lobby) (inFluence_iV was demoted to Voice by Scarlet Pimpernel.)
+[2014-09-20T02:39:57.300Z] (lobby) (Marshalll Mathers changed the roomintro.)
+[2014-09-20T02:41:49.855Z] (lobby) (Marshalll Mathers changed the roomintro.)
+[2014-09-20T23:35:03.497Z] (lobby) PokeMontreal was locked from talking by inFluence_iV.
+[2014-09-20T23:35:03.497Z] (lobby) (PokeMontreal's ac account: pokemontreal)
+[2014-09-20T23:47:22.233Z] (lobby) Marshalll Mathers globally declared interested in our new tiers? flarz will be holding a workshop and tournament in the S tier room!
+[2014-09-20T23:47:50.468Z] (lobby) inFluence_iV globally declared ATTENTION: Anyone with @ or higher, please do not ban PokeMontreal 
+[2014-09-21T15:17:35.979Z] (lobby) BattleDragon was promoted to Moderator by Marshalll Mathers.
+[2014-09-21T16:17:54.301Z] (lobby) Marshalll Mathers was promoted to Room Voice by Marshalll Mathers.
+[2014-09-21T16:18:03.178Z] (lobby) Marshalll Mathers was promoted to Room Moderator by Marshalll Mathers.
+[2014-09-21T16:25:11.736Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-21T16:25:40.356Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-21T16:25:48.938Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-21T16:26:52.048Z] (lobby) (rosepetal changed the roomintro.)
+[2014-09-22T00:47:24.555Z] (lobby) flarz declared Rap Battle Time! /join rapbattles for prizes including room auth and pokemon!
+[2014-09-22T18:25:33.815Z] (lobby) ashiemore was promoted to Administrator by Marshalll Mathers.
+[2014-09-22T18:28:10.669Z] (lobby) (Marshalll Mathers was demoted to Room Driver by Marshalll Mathers.)
+[2014-09-22T18:28:22.510Z] (lobby) (Marshalll Mathers was demoted to Room Voice by ashiemore.)
+[2014-09-22T18:28:37.290Z] (lobby) Marshalll Mathers was promoted to Room Driver by Marshalll Mathers.
+[2014-09-22T19:34:31.888Z] (lobby) Marshalll Mathers globally declared B Tier is in progress!
+[2014-09-22T21:57:13.039Z] (lobby) (Marshalll Mathers was demoted to Room Voice by Marshalll Mathers.)
+[2014-09-22T21:57:22.163Z] (lobby) (Marshalll Mathers was demoted to Room regular user by Marshalll Mathers.)
+[2014-09-22T22:07:21.363Z] (lobby) Aston Rasen was promoted to Voice by Marshalll Mathers.
+[2014-09-22T22:09:18.738Z] (lobby) M@naphy was promoted to Voice by Marshalll Mathers.
+[2014-09-22T22:28:17.119Z] (lobby) Marshalll Mathers was promoted to Room Voice by ashiemore.
+[2014-09-22T22:43:40.095Z] (lobby) (Marshalll Mathers was demoted to Room regular user by Marshalll Mathers.)
+[2014-09-22T23:12:25.173Z] (lobby) (Marshalll Mathers changed the roomintro.)
+[2014-09-22T23:20:10.684Z] (lobby) Marshalll Mathers globally declared Interested in our custom tiers? the S tier has a ladder! tierlist: http://prism.freeforums.net/thread/4/official-prism-tier
+[2014-09-23T00:59:28.386Z] (lobby) VicariousNeos was warned by inFluence_iV. (Stop drinking Redbulls/Monsters)
+[2014-09-23T00:59:42.114Z] (lobby) VicariousNeos was warned by inFluence_iV. (Calm yourself. :))
+[2014-09-23T01:05:29.209Z] (lobby) VicariousNeos was warned by Marshalll Mathers. (BUDWEISER IS BETTER)
+[2014-09-23T02:08:08.738Z] (lobby) Marshalll Mathers globally declared (22:08:07) ±Bot: Neos changed the server name to Nigga!
+[2014-09-23T02:12:17.774Z] (lobby) VicariousNeos was redirected to a private room by Marshalll Mathers.
+[2014-09-23T22:41:03.988Z] (lobby) Clefairy was redirected to room Doubles by Marshalll Mathers.
+[2014-09-23T23:16:34.666Z] (lobby) Marshalll Mathers set modchat to +
+[2014-09-23T23:16:39.399Z] (lobby) Marshalll Mathers set modchat to %
+[2014-09-23T23:16:48.803Z] (lobby) Marshalll Mathers set modchat to @
+[2014-09-23T23:16:52.283Z] (lobby) Marshalll Mathers set modchat to &
+[2014-09-23T23:16:59.697Z] (lobby) Marshalll Mathers set modchat to #
+[2014-09-23T23:17:03.816Z] (lobby) Marshalll Mathers set modchat to ~
+[2014-09-23T23:17:14.002Z] (lobby) Aston Rasen was promoted to Administrator by Marshalll Mathers.
+[2014-09-23T23:17:28.986Z] (lobby) Marshalll Mathers set modchat to false
+[2014-09-23T23:17:32.233Z] (lobby) (Aston Rasen was demoted to Voice by Marshalll Mathers.)
+[2014-09-23T23:19:12.500Z] (lobby) BDH93 was redirected to a private room by Marshalll Mathers.
+[2014-09-23T23:26:02.499Z] (lobby) BDH93 was redirected to room Prism Tiers by Marshalll Mathers.
+[2014-09-24T00:04:57.184Z] (lobby) ashiemore was promoted to Room Voice by ashiemore.
+[2014-09-24T00:05:03.131Z] (lobby) (ashiemore was demoted to Room regular user by ashiemore.)
+[2014-09-24T00:05:08.615Z] (lobby) ashiemore was promoted to Room Voice by ashiemore.
+[2014-09-24T00:31:44.907Z] (lobby) Bugatti Vitesse was redirected to a private room by Marshalll Mathers.
+[2014-09-24T20:08:39.240Z] (lobby) Marshalll Mathers globally declared Looking for a battle? check out the Battle Requests room!
+[2014-09-24T23:02:19.093Z] (lobby) Studios was redirected to a private room by Marshalll Mathers.
+[2014-09-24T23:53:47.856Z] (lobby) Kohu100 was muted by Marshalll Mathers for 7 minutes.
+[2014-09-24T23:53:52.833Z] (lobby) Studios was muted by Marshalll Mathers for 7 minutes.
+[2014-09-24T23:53:55.853Z] (lobby) TheJerkoffFappy was muted by Marshalll Mathers for 7 minutes.
+[2014-09-24T23:54:01.406Z] (lobby) Studios was unmuted by Marshalll Mathers.
+[2014-09-24T23:54:08.695Z] (lobby) Kohu100 was unmuted by Marshalll Mathers.
+[2014-09-24T23:54:15.476Z] (lobby) TheJerkoffFappy was unmuted by Marshalll Mathers.
+[2014-09-24T23:54:37.783Z] (lobby) Studios was promoted to Room Voice by Marshalll Mathers.
+[2014-09-24T23:55:03.538Z] (lobby) (Studios was demoted to Room regular user by Marshalll Mathers.)
+[2014-09-24T23:56:37.053Z] (lobby) Studios was promoted to Voice by Marshalll Mathers.
+[2014-09-24T23:56:53.790Z] (lobby) (Studios was demoted to regular user by Marshalll Mathers.)
+[2014-09-24T23:59:10.531Z] (lobby) Kohu100 was redirected to a private room by Marshalll Mathers.
+[2014-09-25T00:26:13.317Z] (lobby) Cyborg Charizard X was locked from talking by Marshalll Mathers.
+[2014-09-25T00:45:00.108Z] (lobby) (A Retarded would be muted by Marshalll Mathers but was already locked.)
+[2014-09-25T00:45:06.955Z] (lobby) (A Retarded would be muted by Marshalll Mathers but was already locked.)
+[2014-09-25T00:45:10.025Z] (lobby) (A Retarded would be locked by Marshalll Mathers but was already locked.)
+[2014-09-25T01:26:46.092Z] (lobby) Marshalll Mathers globally declared All prism tiers are coded! Now they just need to be put in ladder form
+[2014-09-25T02:23:44.014Z] (lobby) Marshalll Mathers globally declared Monogen is confirmed for next alt. tier: We will have 6 different ladders for each gen due to there being no way to code a "monogen clause"
+[2014-09-25T02:24:02.644Z] (lobby) Marshalll Mathers globally declared for more check out the alt. tiers room
+[2014-09-25T03:49:16.218Z] (lobby) Marshalll Mathers was unlocked by BattleDragon.

@@ -1,0 +1,42 @@
+[2014-07-04T04:34:11.537Z] (tournaments) xSkelly34 was appointed Room Owner by flarz.
+[2014-07-05T15:00:20.999Z] (tournaments) xSkelly34 was promoted to Voice by flarz.
+[2014-07-05T15:12:48.098Z] (tournaments) 16bit was promoted to Room Moderator by flarz.
+[2014-07-05T15:13:10.830Z] (tournaments) Vaporeon for Ubers was promoted to Room Moderator by flarz.
+[2014-07-05T15:13:24.170Z] (tournaments) (16bit was demoted to Room Driver by flarz.)
+[2014-07-05T15:13:41.252Z] (tournaments) flarz was promoted to Room Voice by flarz.
+[2014-07-05T15:18:57.910Z] (tournaments) flarz was appointed Room Owner by flarz.
+[2014-07-05T15:28:04.305Z] (tournaments) Vaporeon for Ubers was warned by xSkelly34.
+[2014-07-06T04:17:44.220Z] (tournaments) Pradham was muted by xSkelly34 for 7 minutes. (asking for promo)
+[2014-07-06T04:18:26.166Z] (tournaments) Pradham was unmuted by xSkelly34.
+[2014-07-06T04:19:09.911Z] (tournaments) Pradham was promoted to Administrator by flarz.
+[2014-07-06T04:19:17.709Z] (tournaments) (Pradham was demoted to Leader by flarz.)
+[2014-07-06T04:19:23.545Z] (tournaments) (Pradham was demoted to Moderator by flarz.)
+[2014-07-06T04:19:31.339Z] (tournaments) (Pradham was demoted to Driver by flarz.)
+[2014-07-06T04:19:37.686Z] (tournaments) (Pradham was demoted to Voice by flarz.)
+[2014-07-06T04:19:45.791Z] (tournaments) (Pradham was demoted to regular user by flarz.)
+[2014-07-06T04:21:22.160Z] (tournaments) SwaggyTrainer was promoted to Voice by flarz.
+[2014-07-06T04:21:32.510Z] (tournaments) SwaggyTrainer was banned from room tournaments by xSkelly34.
+[2014-07-06T04:21:49.117Z] (tournaments) SwaggyTrainer was unbanned from room tournaments by flarz.
+[2014-07-09T00:36:18.950Z] (tournaments) sw4mpert was appointed Room Owner by sw4mpert.
+[2014-08-03T22:01:20.492Z] (tournaments) inFluence_iV made this chat room official.
+[2014-08-17T21:14:25.998Z] (tournaments) HoeenKid was appointed Room Owner by inFluence_iV.
+[2014-08-22T04:02:31.515Z] (tournaments) StarGate Bot was appointed Room Owner by Rival.
+[2014-08-22T22:22:39.280Z] (tournaments) HoeenKid was promoted to Moderator by inFluence_iV.
+[2014-08-22T22:22:55.735Z] (tournaments) HoeenKid was promoted to Room Moderator by inFluence_iV.
+[2014-08-22T22:27:03.213Z] (tournaments) (inFluence_iV created a tournament in randombattle format.)
+[2014-08-22T22:28:19.210Z] (tournaments) HoeenKid was appointed Room Owner by inFluence_iV.
+[2014-08-22T22:28:58.257Z] (tournaments) (inFluence_iV forcibly ended a tournament.)
+[2014-08-22T22:29:21.299Z] (tournaments) Catacomb was promoted to Room Moderator by inFluence_iV.
+[2014-08-22T22:29:33.317Z] (tournaments) (HoeenKid was demoted to Room Moderator by inFluence_iV.)
+[2014-08-22T23:27:01.882Z] (tournaments) (Rival was demoted to Moderator by Rival.)
+[2014-08-22T23:28:26.855Z] (tournaments) Rival was appointed Room Owner by Rival.
+[2014-08-23T00:31:11.897Z] (tournaments) inFluence_iV set modchat to +
+[2014-08-23T00:31:16.229Z] (tournaments) inFluence_iV set modchat to false
+[2014-08-23T14:25:24.192Z] (tournaments) JigglykongisFUM16 was promoted to Room Voice by flarz.
+[2014-08-23T17:25:22.813Z] (tournaments) (flarz changed the roomintro.)
+[2014-08-30T00:29:27.669Z] (tournaments) flarz made this room private.
+[2014-09-14T03:26:00.761Z] (tournaments) inFluence_iV was promoted to Room Moderator by flarz.
+[2014-09-19T02:39:19.456Z] (tournaments) flarz made this chat room official.
+[2014-09-19T02:40:28.298Z] (tournaments) flarz made this room private.
+[2014-09-19T02:40:35.410Z] (tournaments) flarz made this room public.
+[2014-09-20T20:32:46.799Z] (tournaments) Marshalll Mathers made this room private.

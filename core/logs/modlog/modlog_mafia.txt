@@ -1,0 +1,33 @@
+[2014-08-21T00:54:18.374Z] (mafia) Catacomb was appointed Room Owner by inFluence_iV.
+[2014-08-21T00:55:43.298Z] (mafia) rssp1 was promoted to Room Voice by Catacomb.
+[2014-08-21T00:57:01.629Z] (mafia) Catacomb set modchat to +
+[2014-08-21T00:58:11.838Z] (mafia) Catacomb set modchat to false
+[2014-08-21T01:08:04.747Z] (mafia) SwampertSolly was promoted to Room Voice by Catacomb.
+[2014-08-21T01:29:03.726Z] (mafia) Rosepetal was promoted to Room Voice by Rosepetal.
+[2014-08-21T01:30:55.531Z] (mafia) Catacomb set modchat to +
+[2014-08-21T01:31:25.710Z] (mafia) (Rosepetal was demoted to Room regular user by Catacomb.)
+[2014-08-21T01:31:41.725Z] (mafia) Rosepetal was promoted to Room Voice by Catacomb.
+[2014-08-21T01:31:48.913Z] (mafia) Rosepetal was muted by Catacomb for 7 minutes.
+[2014-08-21T01:31:52.823Z] (mafia) Rosepetal was unmuted by Catacomb.
+[2014-08-21T01:33:31.662Z] (mafia) Catacomb set modchat to false
+[2014-08-21T01:36:34.526Z] (mafia) Catacomb set modchat to +
+[2014-08-21T01:38:37.619Z] (mafia) Catacomb set modchat to false
+[2014-08-22T00:43:14.018Z] (mafia) Meteordash was promoted to Room Driver by Catacomb.
+[2014-08-22T00:43:19.544Z] (mafia) Mega Eevee X was promoted to Room Moderator by Catacomb.
+[2014-08-22T00:49:23.627Z] (mafia) HoeenKid was promoted to Room Voice by Catacomb.
+[2014-08-22T00:49:44.952Z] (mafia) HoeenKid was muted by Meteordash for 7 minutes. (TROUBLE)
+[2014-08-22T00:49:50.514Z] (mafia) HoeenKid was unmuted by Meteordash.
+[2014-08-22T00:50:05.615Z] (mafia) (HoeenKid was demoted to Room regular user by Catacomb.)
+[2014-08-22T01:41:23.565Z] (mafia) Catacomb set modchat to #
+[2014-08-22T01:41:42.526Z] (mafia) Catacomb set modchat to %
+[2014-08-22T02:08:04.438Z] (mafia) super sonic x was warned by Mega Eevee X. (dont)
+[2014-08-22T21:49:46.999Z] (mafia) Catacomb set modchat to false
+[2014-08-22T21:49:53.623Z] (mafia) StarGate Bot was promoted to Room Voice by Catacomb.
+[2014-08-22T21:50:06.771Z] (mafia) StarGate Bot was banned from room mafia by Catacomb.
+[2014-08-22T22:40:10.488Z] (mafia) (Catacomb changed the roomintro.)
+[2014-08-23T00:33:30.716Z] (mafia) swirlyder was promoted to Room Moderator by Rival.
+[2014-08-23T00:53:38.074Z] (mafia) Mega Eevee X set modchat to +
+[2014-08-23T00:54:23.496Z] (mafia) Mega Eevee X set modchat to false
+[2014-08-23T02:08:00.209Z] (mafia) StarGate Bot was banned from room mafia by Catacomb.
+[2014-08-23T02:47:11.363Z] (mafia) StarGate Bot was warned by Mega Eevee X.
+[2014-09-19T00:54:29.506Z] (mafia) flarz made this room private.

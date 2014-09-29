@@ -1,0 +1,14 @@
+[2014-08-24T02:53:45.548Z] (createapokemon) JigglykongisFUM16 was appointed Room Owner by inFluence_iV.
+[2014-08-24T02:53:56.350Z] (createapokemon) gday was appointed Room Owner by inFluence_iV.
+[2014-08-24T02:54:19.375Z] (createapokemon) flarz was promoted to Room Moderator by JigglykongisFUM16.
+[2014-08-24T03:01:50.874Z] (createapokemon) (inFluence_iV changed the roomintro.)
+[2014-08-24T03:02:09.826Z] (createapokemon) (inFluence_iV changed the roomdesc to: "gday and welcome to the Prism create a pokemon chat room".)
+[2014-08-24T03:02:34.717Z] (createapokemon) flarz was appointed Room Owner by inFluence_iV.
+[2014-08-24T03:03:43.696Z] (createapokemon) (flarz changed the roomintro.)
+[2014-08-24T03:05:00.642Z] (createapokemon) (flarz changed the roomintro.)
+[2014-08-24T03:06:55.000Z] (createapokemon) (flarz changed the roomintro.)
+[2014-08-24T03:08:07.963Z] (createapokemon) (flarz changed the roomintro.)
+[2014-08-24T03:08:18.784Z] (createapokemon) (flarz changed the roomintro.)
+[2014-08-24T03:11:37.956Z] (createapokemon) zeonth was promoted to Room Voice by JigglykongisFUM16.
+[2014-09-19T00:36:13.848Z] (createapokemon) flarz set modchat to #
+[2014-09-19T00:45:52.190Z] (createapokemon) flarz made this room private.

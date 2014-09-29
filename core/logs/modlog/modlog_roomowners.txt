@@ -1,0 +1,2 @@
+[2014-09-20T21:19:49.151Z] (roomowners) rosepetal made this room private.
+[2014-09-20T21:19:51.086Z] (roomowners) rosepetal turned on modjoin.

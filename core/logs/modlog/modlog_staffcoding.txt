@@ -1,0 +1,26 @@
+[2014-08-14T18:12:34.490Z] (staffcoding) inFluence_iV made this room private.
+[2014-08-14T18:13:01.132Z] (staffcoding) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-08-14T18:13:10.294Z] (staffcoding) HoeenKid was promoted to Room Driver by inFluence_iV.
+[2014-08-14T18:13:26.940Z] (staffcoding) inFluence_iV set modchat to +
+[2014-08-15T13:56:14.200Z] (staffcoding) Rival Nick set modchat to false
+[2014-08-15T13:56:22.216Z] (staffcoding) Rival Nick was appointed Room Owner by Rival Nick.
+[2014-08-15T13:58:00.946Z] (staffcoding) Rival Nick set modchat to @
+[2014-08-15T13:58:09.789Z] (staffcoding) Rival Nick set modchat to +
+[2014-08-15T16:37:50.056Z] (staffcoding) inFluence_iV was appointed Room Owner by Rival Nick.
+[2014-08-15T16:37:52.110Z] (staffcoding) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-08-20T23:27:15.349Z] (staffcoding) HoeenKid was promoted to Room Moderator by HoeenKid.
+[2014-08-21T22:16:15.767Z] (staffcoding) Catacomb was promoted to Room Voice by HoeenKid.
+[2014-08-22T22:18:43.322Z] (staffcoding) Scarlet Pimpernel was promoted to Room Voice by HoeenKid.
+[2014-08-22T23:47:03.003Z] (staffcoding) flarz was promoted to Room Voice by inFluence_iV.
+[2014-08-23T02:02:57.431Z] (staffcoding) Bryan AA was promoted to Room Voice by HoeenKid.
+[2014-08-23T02:09:35.640Z] (staffcoding) StarGate Bot was promoted to Room Voice by HoeenKid.
+[2014-08-23T02:11:34.032Z] (staffcoding) StarGate Bot was muted by HoeenKid for 7 minutes. (robots arent staff :O)
+[2014-08-23T02:12:29.738Z] (staffcoding) StarGate Bot was unmuted by HoeenKid.
+[2014-08-23T17:07:08.532Z] (staffcoding) StarGate Bot was muted by HoeenKid for 7 minutes.
+[2014-08-23T17:07:46.135Z] (staffcoding) StarGate Bot was unmuted by HoeenKid.
+[2014-08-23T19:15:00.413Z] (staffcoding) inFluence_iV turned on modjoin.
+[2014-08-29T23:09:52.181Z] (staffcoding) flarz was promoted to Room Moderator by flarz.
+[2014-08-29T23:14:29.641Z] (staffcoding) flarz was appointed Room Owner by flarz.
+[2014-08-29T23:14:51.610Z] (staffcoding) (flarz changed the roomintro.)
+[2014-08-29T23:15:01.114Z] (staffcoding) (flarz changed the roomintro.)
+[2014-08-29T23:15:05.686Z] (staffcoding) (flarz changed the roomintro.)

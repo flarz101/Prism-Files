@@ -1,0 +1,25 @@
+[2014-07-04T04:47:29.493Z] (tcg) Jonater was appointed Room Owner by flarz.
+[2014-07-04T04:48:03.165Z] (tcg) inFluence_iV was appointed Room Owner by flarz.
+[2014-07-04T04:48:42.547Z] (tcg) flarz was appointed Room Owner by flarz.
+[2014-07-04T07:18:17.361Z] (tcg) coldgenisis was promoted to Room Moderator by flarz.
+[2014-07-08T07:46:56.349Z] (tcg) coldgenisis set modchat to +
+[2014-07-08T07:47:04.429Z] (tcg) coldgenisis set modchat to autoconfirmed
+[2014-07-09T00:18:04.003Z] (tcg) sw4mpert made this room private.
+[2014-08-03T22:05:26.650Z] (tcg) inFluence_iV made this chat room official.
+[2014-08-03T22:07:28.793Z] (tcg) inFluence_iV made this room public.
+[2014-08-20T03:29:16.704Z] (tcg) inFluence_iV made this chat room unofficial.
+[2014-08-23T14:24:37.359Z] (tcg) JigglykongisFUM16 was promoted to Room Moderator by flarz.
+[2014-08-23T15:34:30.804Z] (tcg) WolfShadic was promoted to Room Moderator by flarz.
+[2014-08-23T15:36:09.225Z] (tcg) PikachuCandy was promoted to Room Moderator by flarz.
+[2014-08-23T16:57:11.912Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T16:58:34.827Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T17:01:00.813Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T17:01:17.480Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T17:08:23.351Z] (tcg) Chaotic was banned from room tcg by flarz.
+[2014-08-23T17:11:04.467Z] (tcg) Chaotic was unbanned from room tcg by flarz.
+[2014-08-23T17:15:45.267Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T17:17:15.446Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T17:20:05.758Z] (tcg) (flarz changed the roomintro.)
+[2014-08-23T19:32:47.867Z] (tcg) (flarz changed the roomintro.)
+[2014-09-19T00:35:21.337Z] (tcg) flarz set modchat to #
+[2014-09-19T00:44:10.188Z] (tcg) flarz made this room private.

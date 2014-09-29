@@ -1,0 +1,86 @@
+[2014-07-04T06:18:30.375Z] (trivia) Rose Petal was appointed Room Owner by flarz.
+[2014-07-04T06:21:28.915Z] (trivia) aleuser was promoted to Room Voice by flarz.
+[2014-07-04T06:27:04.517Z] (trivia) Snarkless was promoted to Room Voice by Rose Petal.
+[2014-07-09T00:19:18.060Z] (trivia) sw4mpert made this room private.
+[2014-08-24T22:29:38.131Z] (trivia) Rosepetal set modchat to autoconfirmed
+[2014-08-24T22:29:56.445Z] (trivia) Rosepetal set modchat to false
+[2014-08-24T22:30:37.611Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-24T22:30:45.067Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-24T22:30:59.145Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-24T22:31:29.680Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-24T22:31:36.045Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-24T22:31:51.363Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-25T01:12:47.729Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-25T01:13:51.598Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-25T01:13:59.713Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-25T01:14:28.333Z] (trivia) (Rosepetal changed the roomintro.)
+[2014-08-25T03:34:59.792Z] (trivia) Jumi was appointed Room Owner by inFluence_iV.
+[2014-08-25T03:35:23.879Z] (trivia) inFluence_iV made this room public.
+[2014-08-25T03:37:09.811Z] (trivia) Krango was promoted to Room Moderator by Jumi.
+[2014-08-25T03:38:16.738Z] (trivia) flarz was promoted to Room Voice by Jumi.
+[2014-08-25T03:38:46.949Z] (trivia) flarz was promoted to Room Moderator by Jumi.
+[2014-08-25T03:45:31.038Z] (trivia) runy12222 was promoted to Room Driver by Jumi.
+[2014-08-25T03:55:31.375Z] (trivia) Rxdb was promoted to Room Driver by Jumi.
+[2014-08-25T03:55:47.642Z] (trivia) Rxdb was promoted to Room Moderator by Jumi.
+[2014-08-25T03:58:45.792Z] (trivia) ChapatiFryer was promoted to Room Driver by Jumi.
+[2014-08-25T04:00:02.285Z] (trivia) Krango was warned by jumi. (no no no no no no)
+[2014-08-25T04:02:45.460Z] (trivia) jumi declared and ends with aracas
+[2014-08-25T04:05:20.223Z] (trivia) Aston Rasen was promoted to Room Voice by jumi.
+[2014-08-27T01:00:52.799Z] (trivia) Magma Admin~ was promoted to Room Voice by Jumi.
+[2014-08-27T01:01:38.109Z] (trivia) (rxdb was demoted to Room Voice by Jumi.)
+[2014-08-27T01:01:46.289Z] (trivia) (rxdb was demoted to Room regular user by Jumi.)
+[2014-08-27T01:02:31.141Z] (trivia) (chapatifryer was demoted to Room Voice by Jumi.)
+[2014-08-27T01:02:36.624Z] (trivia) (chapatifryer was demoted to Room regular user by Jumi.)
+[2014-08-27T01:03:26.675Z] (trivia) Magma Admin~ was promoted to Room Driver by Jumi.
+[2014-08-27T01:06:59.040Z] (trivia) Magma Admin~ was warned by Jumi.
+[2014-08-27T01:20:26.216Z] (trivia) coldgenisis was promoted to Room Driver by jumi.
+[2014-08-27T01:25:13.912Z] (trivia) MukUsedDrillPeck was promoted to Room Voice by jumi.
+[2014-08-27T01:25:32.782Z] (trivia) Mareep Sweep was promoted to Room Voice by jumi.
+[2014-08-27T01:29:29.051Z] (trivia) (MukUsedDrillPeck was demoted to Room regular user by jumi.)
+[2014-08-27T01:29:34.713Z] (trivia) Manaphy286 was promoted to Room Voice by jumi.
+[2014-08-27T01:52:54.503Z] (trivia) MukUsedDrillPeck was redirected to room Battle Spot Meta by jumi.
+[2014-08-27T01:54:02.294Z] (trivia) MukUsedDrillPeck was promoted to Room Voice by jumi.
+[2014-08-27T01:55:44.130Z] (trivia) Mareep Sweep was warned by jumi.
+[2014-08-27T02:04:24.188Z] (trivia) Mareep Sweep was promoted to Room Driver by jumi.
+[2014-08-27T02:04:49.587Z] (trivia) ashiemore was promoted to Room Voice by ashiemore.
+[2014-08-27T02:05:30.626Z] (trivia) ashiemore was banned from room trivia by jumi.
+[2014-08-27T02:05:38.064Z] (trivia) ashiemore was unbanned from room trivia by jumi.
+[2014-08-27T02:07:03.863Z] (trivia) ashiemore was warned by Rosepetal.
+[2014-08-27T02:07:05.065Z] (trivia) ashiemore was warned by Rosepetal.
+[2014-08-27T02:07:05.673Z] (trivia) ashiemore was warned by Rosepetal.
+[2014-08-27T02:07:06.280Z] (trivia) ashiemore was warned by Rosepetal.
+[2014-08-27T02:07:06.888Z] (trivia) ashiemore was warned by Rosepetal.
+[2014-08-27T02:07:07.495Z] (trivia) ashiemore was warned by Rosepetal.
+[2014-08-27T02:08:47.194Z] (trivia) ashiemore was promoted to Room Driver by jumi.
+[2014-08-27T02:09:07.426Z] (trivia) (ashiemore was demoted to Room Voice by jumi.)
+[2014-08-27T02:09:11.777Z] (trivia) (ashiemore was demoted to Room regular user by jumi.)
+[2014-08-27T02:25:06.358Z] (trivia) ashiemore declared i'm doing this just cause i can
+[2014-08-27T02:25:24.306Z] (trivia) jumi declared :^)
+[2014-08-27T02:30:11.768Z] (trivia) ashiemore set modchat to ~
+[2014-08-27T02:30:15.309Z] (trivia) ashiemore set modchat to false
+[2014-08-27T02:30:30.934Z] (trivia) jumi set modchat to &
+[2014-08-27T02:30:41.307Z] (trivia) jumi set modchat to #
+[2014-08-27T02:30:46.801Z] (trivia) ashiemore set modchat to false
+[2014-08-27T02:30:57.452Z] (trivia) ashiemore set modchat to %
+[2014-08-27T02:31:07.448Z] (trivia) ashiemore was promoted to Room Voice by jumi.
+[2014-08-27T02:32:10.238Z] (trivia) ashiemore was promoted to Room Moderator by jumi.
+[2014-08-27T02:32:16.579Z] (trivia) Mareep Sweep was redirected to room Scavengers by ashiemore.
+[2014-08-27T02:32:17.608Z] (trivia) Mareep Sweep was warned by Krango. (r00d)
+[2014-08-27T02:34:47.303Z] (trivia) inFluence_iV was promoted to Room Voice by ashiemore.
+[2014-08-27T02:35:32.406Z] (trivia) inFluence_iV was appointed Room Owner by inFluence_iV.
+[2014-08-27T02:41:27.553Z] (trivia) jumi set modchat to @
+[2014-08-27T02:41:32.562Z] (trivia) jumi set modchat to false
+[2014-08-27T02:56:31.475Z] (trivia) (ashiemore was demoted to Room Voice by jumi.)
+[2014-08-27T02:56:47.404Z] (trivia) jumi set modchat to +
+[2014-08-27T02:57:08.528Z] (trivia) jumi set modchat to autoconfirmed
+[2014-08-28T00:23:02.879Z] (trivia) Rosepetal set modchat to false
+[2014-09-01T17:24:48.400Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:24:57.536Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:25:05.377Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:25:16.289Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:25:23.949Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:25:31.777Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:25:44.794Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-01T17:25:53.944Z] (trivia) (rosepetal changed the roomintro.)
+[2014-09-03T01:10:25.341Z] (trivia) (legitbutton was demoted to regular user by ashiemore.)
+[2014-09-19T00:50:09.837Z] (trivia) flarz made this room private.

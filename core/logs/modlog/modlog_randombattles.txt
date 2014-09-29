@@ -1,0 +1,5 @@
+[2014-09-20T21:17:06.516Z] (randombattles) rosepetal made this room private.
+[2014-09-20T21:17:29.287Z] (randombattles) rosepetal was appointed Room Owner by rosepetal.
+[2014-09-20T21:17:38.747Z] (randombattles) (rosepetal changed the roomintro.)
+[2014-09-20T21:17:47.114Z] (randombattles) rosepetal turned on modjoin.
+[2014-09-20T21:17:54.596Z] (randombattles) (rosepetal changed the roomdesc to: "Random Battles here!".)

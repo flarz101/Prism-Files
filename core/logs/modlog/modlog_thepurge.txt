@@ -1,0 +1,24 @@
+[2014-09-05T02:12:28.349Z] (thepurge) (inFluence_iV changed the roomdesc to: " A new game mode based on the movie "The Purge". Still in Development.".)
+[2014-09-14T01:57:08.825Z] (thepurge) flarz was appointed Room Owner by inFluence_iV.
+[2014-09-14T02:12:20.299Z] (thepurge) inFluence_iV globally declared /join The Purge
+[2014-09-14T02:16:19.758Z] (thepurge) Vaporeon for Ubers was promoted to Room Voice by flarz.
+[2014-09-14T02:16:24.902Z] (thepurge) alwayswinsthegame was promoted to Room Voice by flarz.
+[2014-09-14T02:27:16.023Z] (thepurge) Mob Boss was promoted to Room Voice by flarz.
+[2014-09-14T02:33:46.118Z] (thepurge) Feliburn was promoted to Room Voice by flarz.
+[2014-09-14T02:48:15.656Z] (thepurge) ASackOfPotatoes was promoted to Room Voice by flarz.
+[2014-09-14T02:50:45.530Z] (thepurge) xSkelly34 was promoted to Room Voice by flarz.
+[2014-09-14T02:50:49.643Z] (thepurge) flarz set modchat to +
+[2014-09-14T03:01:19.535Z] (thepurge) flarz set modchat to %
+[2014-09-14T03:01:57.693Z] (thepurge) flarz set modchat to +
+[2014-09-14T03:06:36.862Z] (thepurge) inFluence_iV was promoted to Room Voice by flarz.
+[2014-09-14T03:08:22.635Z] (thepurge) ASackOfPotatoes was promoted to Room Driver by flarz.
+[2014-09-14T03:08:54.120Z] (thepurge) alwayswinsthegame was muted by ASackOfPotatoes for 7 minutes.
+[2014-09-14T03:09:09.572Z] (thepurge) alwayswinsthegame was unmuted by inFluence_iV.
+[2014-09-14T03:15:44.574Z] (thepurge) Vaporeon for Ubers was promoted to Room Driver by flarz.
+[2014-09-14T03:17:56.021Z] (thepurge) xSkelly34 was promoted to Room Driver by flarz.
+[2014-09-14T03:18:03.963Z] (thepurge) alwayswinsthegame was promoted to Room Driver by flarz.
+[2014-09-14T03:18:07.876Z] (thepurge) inFluence_iV was promoted to Room Driver by flarz.
+[2014-09-14T03:22:59.791Z] (thepurge) flarz set modchat to @
+[2014-09-14T03:23:21.204Z] (thepurge) flarz set modchat to false
+[2014-09-14T03:25:32.794Z] (thepurge) flarz declared /join tournaments
+[2014-09-19T00:56:26.205Z] (thepurge) flarz made this room private.
