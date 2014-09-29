@@ -11,8 +11,11 @@
 	'influenceiv': '',
 	'rival': '',
 	'rosepetal': 'rosepetal1.png',
-	'ashiemore': ''
-};
+	'ashiemore': '',
+	'Marshalll Mathers': 'Spr_E_Brendan'
+ };
+
+
 
 exports.appealurl = '';
 
