@@ -10,7 +10,7 @@
 
 	'influenceiv': '',
 	'rival': '',
-	'rosepetal': '', // rosepetal: 'rosepetal1.png', // rosepetal: 'rosepetal2.png',
+	'rosepetal': 'rosepetal1.png',
 	'ashiemore': ''
 };
 
